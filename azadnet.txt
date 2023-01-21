@@ -4,7 +4,6 @@ trojan://bedae0a3-a7dc-4ff0-9013-be459839b5b7@15.235.197.5:80?security=tls&sni=s
 trojan://76fcac80-9943-4eab-8717-0ebebea94b70@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US_AzadNet_341
 trojan://cb43b7c2-b744-41c5-bcc2-fd7467b332cf@140.238.205.173:443?security=tls&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BAAU_AzadNet
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Dwn4e3S1JfQXphZE5ldF8xMCIsDQogICJhZGQiOiAiMTMxLjE4Ni4yMS4yMjMiLA0KICAicG9ydCI6ICIyNDI1MCIsDQogICJpZCI6ICIyNWRkYjIxNS05ODQwLTRjZGItZTAzNy0xN2E5NDNiMzI1MDAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1PL_AzadNet_5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@35.180.158.176:810#%F0%9F%87%AB%F0%9F%87%B7FR_AzadNet_33
 trojan://xxoo@146.19.230.241:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB_AzadNet_3
 trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR_AzadNet_5
