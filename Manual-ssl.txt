@@ -40,6 +40,7 @@ certificate file content
 --------------------------------------------
 
 این کد دو فایلی که من درست کردم روی پروکسی خودم امتحان کردم کار میکنه:
+ولی در برنامه کلاینت توجه داشته باشیم که:  allowInsecure = True
 
 Public key file path	(certificate.crt):
 
