@@ -1,3 +1,14 @@
+trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?type=tcp&security=tls&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR_%40_7
+vmess://eyJhZGQiOiJwZXRhbC5nYSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiNzQ0ZjVjYy1lYWIyLWQyY2QtZjQ3Ny03NjY0NmQxNzk4N2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGV0YWx2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4et8J+HsEhLX0BfMjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://xxoo@138.124.183.226:443?type=tcp&security=tls&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US_%40_35
+trojan://xxoo@138.124.183.222:443?type=tcp&security=tls&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US_%40_34
+vmess://eyJhZGQiOiIyNy4xMjQuMi4zOCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMDMxNzMwMDkxNDIwIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuPCfh6xTR19AXzgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?type=tcp&security=tls&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR_%40_2
+trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?sni=$150.230.96.103&type=tcp&security=tls&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP_%40_10
+trojan://cb43b7c2-b744-41c5-bcc2-fd7467b332cf@140.238.205.173:443?type=tcp&security=tls&headerType=none#%F0%9F%87%A6%F0%9F%87%BAAU_%40_3
+trojan://xxoo@138.124.183.222:443?type=tcp&security=tls&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US_%40_149
+trojan://cb43b7c2-b744-41c5-bcc2-fd7467b332cf@140.238.205.173:443?type=tcp&security=tls&headerType=none#%F0%9F%87%A6%F0%9F%87%BAAU_%40_1
+
 trojan://kBMRZJ46Zh@65.109.179.195:443?security=tls&sni=linux.seatech.ir&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AEFI_liMil+AzadNet_1
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6nwn4eqREVfQXphZE5ldC50Lm1lXzc3IiwNCiAgImFkZCI6ICI3OS4xMzIuMTMzLjM4IiwNCiAgInBvcnQiOiAiNTQ0NTgiLA0KICAiaWQiOiAiMzFiMDIyZjItNTQ0MS00ZTlhLWZmZTctNDNmZWU3YWIwNjg4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:443?security=tls&sni=kr05.wangxd.life&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR_liMil+AzadNet_4
