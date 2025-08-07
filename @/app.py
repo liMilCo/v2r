@@ -38,17 +38,19 @@ def get_links(file_path):
 # Disable link from sources
 def disable_link(link):
     try:
-        with open(sources_links, 'r') as file:  # Open for reading
+
+        sources_filename = os.path.join(os.path.dirname(__file__), sources_links)
+        with open(sources_filename, 'r') as file:  # Open for reading
             file_contents = file.read()
         
         updated_contents = file_contents.replace(link, "#"+link)
 
-        with open(sources_links, 'w') as file:  # Open for writing (overwrites existing content)
+        with open(sources_filename, 'w') as file:  # Open for writing (overwrites existing content)
             file.write(updated_contents)
 
-        print(f'URL {link} disabeld in {sources_links}')
+        print(f'URL {link} disabeld in {sources_filename}')
     except FileNotFoundError:
-        print(f"Error: File '{sources_links}' not found.")
+        print(f"Error: File '{sources_filename}' not found.")
     except Exception as e:
         print(f"An error occurred: {e}")
 
@@ -136,6 +138,7 @@ def main():
     # All_Configs_Sub file name
     output_filename = os.path.join(output_folder, "all_configs.txt")
     main_base64_filename = os.path.join(output_folder, "configs.txt")
+    sources_filename = os.path.join(output_folder, "@/"+sources_links)
     
     # Cach Old Configs ...
     print("Load Old Configs ...")
@@ -171,7 +174,7 @@ def main():
     
 
     print("Get Sources Links ...")
-    links = get_links(sources_links)
+    links = get_links(sources_filename)
 
     print("Fetching configs...")
     decoded_links = decode_links(links)
@@ -248,7 +251,7 @@ def main():
     print(f"  - all_configs.txt")
     print(f"  - configs.txt (Coded)") 
     print(f"  - {num_files} split files (Sub 1.txt to {num_files}.txt)")
-
+    print(f"Update Completed.")
 
 if __name__ == "__main__":
     main()
