@@ -1,0 +1,47 @@
+name: Update Configs
+permissions: write-all
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "* */72 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code  
+      uses: actions/checkout@v2  
+      with:
+        fetch-depth: 0  
+        persist-credentials: true  
+
+    - name: Set up Python  
+      uses: actions/setup-python@v2  
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies  
+      working-directory: @  
+      run: pip install -r requirements.txt
+
+    - name: Run Python scripts  
+      working-directory: @  
+      run: |
+        python app.py
+        python sort.py
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: "GitHub Actions"
+        author_email: "actions@github.com"
+        message: "Auto Updated 👉"
+        add: "."
+        cwd: "."
+        push: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
