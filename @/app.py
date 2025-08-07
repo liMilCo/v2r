@@ -13,8 +13,8 @@ sources_links = "sources.txt"
 fixed_text = """#profile-title: base64:8J+OgSBGcmVlIEludGVybmV0
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/liMilCo/V2ray-config
-#profile-web-page-url: https://github.com/liMilCo/V2ray-config
+#support-url: https://github.com/liMilCo/v2r
+#profile-web-page-url: https://limilco.github.io/v2r/
 """
 
 def get_links(file_path):
@@ -218,8 +218,8 @@ def main():
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/liMilCo/V2ray-config
-#profile-web-page-url: https://github.com/liMilCo/V2ray-config
+#support-url: https://github.com/liMilCo/v2r
+#profile-web-page-url: https://limilco.github.io/v2r/
 """
 
         input_filename = os.path.join(sub_folder, f"{i + 1}.txt")
