@@ -6,7 +6,7 @@
 
 
 ## Usage
-▶️ To use one of these configurations, simply open the [configs.txt](https://limilco.github.io/v2r/configs.txt)  file located in the root directory. This file contains a list of links to various 2ray configuration files that you can use with your V2ray client. 
+▶️ To use one of these configurations, simply download and open the [all_configs.txt](https://limilco.github.io/v2r/all_configs.txt)  file located in the root directory. This file contains a list of links to various 2ray configuration files that you can use with your V2ray client. 
 
 ⚠️ The **configs.txt** Subscription contains a too many configs, which may cause problems due to the large file size.
 
