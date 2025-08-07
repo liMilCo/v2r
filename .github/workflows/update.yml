@@ -25,11 +25,11 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies  
-      working-directory: @  
+      working-directory: '@'  
       run: pip install -r requirements.txt
 
     - name: Run Python scripts  
-      working-directory: @  
+      working-directory: '@'  
       run: |
         python app.py
         python sort.py
