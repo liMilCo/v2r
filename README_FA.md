@@ -1,7 +1,7 @@
 # 🎁 فیلترشکن رایگان 🌐
 
-[<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool"></a>](https://limilco.github.io/v2r/README_FA) 
-[<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool"></a>](https://limilco.github.io/v2r/) 
+[<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://limilco.github.io/v2r/README_FA) 
+[<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://limilco.github.io/v2r/) 
 
 
 💻 این مخزن مجموعه‌ای از کانفیگ‌های V2ray رایگان است که می توانید با اپلیکیشن کلاینت V2ray خود برای دسترسی به اینترنت به صورت امن و ناشناس استفاده کنید. 
@@ -141,3 +141,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_c
 
 ## تماس با ما
 🙋‍♀️ اگر سوال یا نیاز به راهنمایی دارید، لطفاً از طریق issue تماس بگیرید.
+
+<details> 
+<style> html {direction: rtl;} </style>
+</details> 
