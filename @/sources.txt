@@ -23,5 +23,3 @@ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eterni
 https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt
 https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
-
-
