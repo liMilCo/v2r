@@ -1,8 +1,8 @@
 # 🎁 Free Proxy Config 🌐
 💻 This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
 
-[<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool"></a>](https://limilco.github.io/v2r/README_FA) 
-[<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool"></a>](https://limilco.github.io/v2r/) 
+[<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://limilco.github.io/v2r/README_FA) 
+[<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://limilco.github.io/v2r/) 
 
 
 ## Usage
