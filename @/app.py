@@ -160,6 +160,11 @@ def main():
         os.remove(main_base64_filename)
         print(f"Removed: {main_base64_filename}")
 
+    index_sub_filename = os.path.join(sub_folder, "index.html")
+    if os.path.exists(index_sub_filename):
+        os.remove(index_sub_filename)
+        print(f"Removed: {index_sub_filename}")
+
     for i in range(1, 99):  # Clean Sub1.txt to Sub99.txt
         filename = os.path.join(sub_folder, f"{i}.txt")
         if os.path.exists(filename):
