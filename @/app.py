@@ -81,6 +81,8 @@ def decode_links(links):
                 encoded_bytes = response.content
                 decoded_text = decode_base64(encoded_bytes)
                 decoded_data.append(decoded_text)
+            decoded_num_lines = decoded_text.count('\n') + 1
+            print(f"Loaded {decoded_num_lines} configs from ({link}).")
         except requests.RequestException:
             pass  # If the request fails or times out, skip it
     return decoded_data
