@@ -100,7 +100,6 @@ def filter_for_protocols(data, protocols, old_config):
             lines = content.strip().split('\n')
             for line in lines:
                 line = line.strip()
-                line = line.replace("&amp;", "&")
                 if any(protocol in line for protocol in protocols):
                     if line.startswith('vmess://'):
                         check_seen = line
@@ -227,8 +226,8 @@ def main():
 #support-url: https://github.com/liMilCo/v2r
 #profile-web-page-url: https://limilco.github.io/v2r/
 """
-        index_html += f"""<p>Sub{i+1}: <a href="https://limilco.github.io/v2r/sub/{i+1}.txt">https://limilco.github.io/v2r/sub/{i+1}.txt</a><br><br>
-<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/{i+1}.txt" />
+        index_html += f"""<p>Sub{i+1}: <a href="https://limilco.github.io/v2r/sub/{i+1}.txt#V2R-{i+1}">https://limilco.github.io/v2r/sub/{i+1}.txt</a><br><br>
+<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/{i+1}.txt#V2R-{i+1}" />
 </p>
 <hr>
 """
