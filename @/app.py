@@ -100,6 +100,7 @@ def filter_for_protocols(data, protocols, old_config):
             lines = content.strip().split('\n')
             for line in lines:
                 line = line.strip()
+                line = line.replace("&amp;", "&")
                 if any(protocol in line for protocol in protocols):
                     if line.startswith('vmess://'):
                         check_seen = line
