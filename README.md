@@ -14,21 +14,21 @@
 
 **Subscription 1**: https://limilco.github.io/v2r/sub/1.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/1.txt" />](https://limilco.github.io/v2r/sub/1.txt)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/1.txt" />](https://limilco.github.io/v2r/sub/1.txt#V2R-1)
 
 **Subscription 2**: https://limilco.github.io/v2r/sub/2.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/2.txt" />](https://limilco.github.io/v2r/sub/2.txt)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/2.txt" />](https://limilco.github.io/v2r/sub/2.txt#V2R-2)
 
 **Subscription 3**: https://limilco.github.io/v2r/sub/3.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/3.txt" />](https://limilco.github.io/v2r/sub/3.txt)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/3.txt" />](https://limilco.github.io/v2r/sub/3.txt#V2R-3)
 
 **Subscription 4**: https://limilco.github.io/v2r/sub/4.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/4.txt" />](https://limilco.github.io/v2r/sub/4.txt)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/4.txt" />](https://limilco.github.io/v2r/sub/4.txt#V2R-4)
 
-👁️ For more Subscription check: https://github.com/liMilCo/v2r/tree/main/sub
+👁️ For more Subscription check: https://limilco.github.io/v2r/sub/
 
 
 🗂️ For easier configuration management, we have split the configuration files into individual files for each protocol and added them to the Splitted folder. To have easy access to separated Configs use this : 
