@@ -23,25 +23,25 @@
 
 لینک 1 : https://limilco.github.io/v2r/sub/1.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/1.txt" />](https://limilco.github.io/v2r/sub/1.txt)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/1.txt#V2R-1" />](https://limilco.github.io/v2r/sub/1.txt#V2R-1)
 
 لینک 2 : https://limilco.github.io/v2r/sub/2.txt
 
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/2.txt" />](https://limilco.github.io/v2r/sub/2.txt)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/2.txt#V2R-2" />](https://limilco.github.io/v2r/sub/2.txt#V2R-2)
 
 لینک 3 : https://limilco.github.io/v2r/sub/3.txt
 
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/3.txt" />](https://limilco.github.io/v2r/sub/3.txt)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/3.txt#V2R-3" />](https://limilco.github.io/v2r/sub/3.txt#V2R-3)
 
 لینک 4 : https://limilco.github.io/v2r/sub/4.txt
 
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/4.txt" />](https://limilco.github.io/v2r/sub/4.txt)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/4.txt#V2R-4" />](https://limilco.github.io/v2r/sub/4.txt#V2R-4)
 
 
-❕برای دسترسی به تمام فایل ها، به این فولدر سر بزنید : https://github.com/liMilCo/v2r/tree/main/sub
+❕برای دسترسی به تمام فایل ها، به این فولدر سر بزنید : https://limilco.github.io/v2r/sub/
 
 
 💡روش **3** برای مدیریت آسان‌تر، فایل‌های کانفیگ به گروه‌های جداگانه بر اساس نوع پروتکل تقسیم شده‌اند. جهت دسترسی آسان به کانفیگ‌های جداگانه از لینک‌های زیر استفاده کنید:
