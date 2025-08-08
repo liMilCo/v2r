@@ -104,7 +104,7 @@ def filter_for_protocols(data, protocols, old_config):
                     if line.startswith('vmess://'):
                         check_seen = line
                     else:
-                        check_seen = line.split('#')[0].split('?')[0]                        
+                        check_seen = line.split('#')[0].split('?')[0]                       
                     if check_seen not in seen_configs:
                         seen_configs.add(check_seen)
                         if line in old_config:
@@ -216,7 +216,7 @@ def main():
     max_lines_per_file = 500
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
     print(f"Splitting into {num_files} files with max {max_lines_per_file} lines each")
-
+    index_html = ""
     for i in range(num_files):
         profile_title = f"🎁 Free Proxy | Sub {i+1} 🌎"
         encoded_title = base64.b64encode(profile_title.encode()).decode()
@@ -225,6 +225,11 @@ def main():
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/v2r
 #profile-web-page-url: https://limilco.github.io/v2r/
+"""
+        index_html += f"""<p>Sub{i+1}: <a href="https://limilco.github.io/v2r/sub/{i+1}.txt">https://limilco.github.io/v2r/sub/{i+1}.txt</a><br><br>
+<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/{i+1}.txt" />
+</p>
+<hr>
 """
 
         input_filename = os.path.join(sub_folder, f"{i + 1}.txt")
@@ -246,6 +251,10 @@ def main():
             encoded_config = base64.b64encode(config_data.encode()).decode()
             output_file.write(encoded_config)
         print(f"Created: base64/{i + 1}.txt")
+
+    index_html_filename = os.path.join(sub_folder, "index.html")
+    with open(index_html_filename, "w", encoding="utf-8") as f:
+        f.write(index_html)
 
     print(f"\nProcess completed successfully!")
     print(f"Total configs processed: {len(merged_configs)}")
