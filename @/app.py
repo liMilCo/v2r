@@ -104,7 +104,7 @@ def filter_for_protocols(data, protocols, old_config):
                     if line.startswith('vmess://'):
                         check_seen = line
                     else:
-                        check_seen = line.split('?')[0]                       
+                        check_seen = line.split('#')[0].split('?')[0]                        
                     if check_seen not in seen_configs:
                         seen_configs.add(check_seen)
                         if line in old_config:
