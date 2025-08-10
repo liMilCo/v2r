@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://limilco.github.io/v2r/README_FA) 
 [<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://limilco.github.io/v2r/) 
-
+       [<img src="https://img.shields.io/badge/GitHub-liMilCo/v2r-006222.svg?logo=github">](https://github.com/liMilCo/v2r) 
 
 💻 این مخزن مجموعه‌ای از کانفیگ‌های V2ray رایگان است که می توانید با اپلیکیشن کلاینت V2ray خود برای دسترسی به اینترنت به صورت امن و ناشناس استفاده کنید. 
 
