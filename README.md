@@ -3,8 +3,7 @@
 
 [<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://limilco.github.io/v2r/README_FA) 
 [<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://limilco.github.io/v2r/) 
-
-
+       [<img src="https://img.shields.io/badge/GitHub-liMilCo/v2r-006222.svg?logo=github">](https://github.com/liMilCo/v2r) 
 ## Usage
 ▶️ To use one of these configurations, simply download and open the [all_configs.txt](https://limilco.github.io/v2r/all_configs.txt)  file located in the root directory. This file contains a list of links to various 2ray configuration files that you can use with your V2ray client. 
 
