@@ -1,48 +1,48 @@
 # 🎁 Free Proxy Config 🌐
 💻 This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
 
-[<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://limilco.github.io/v2r/README_FA) 
-[<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://limilco.github.io/v2r/) 
+[<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://v2r.publtd.ir/README_FA) 
+[<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://v2r.publtd.ir/) 
        [<img src="https://img.shields.io/badge/GitHub-liMilCo/v2r-006222.svg?logo=github">](https://github.com/liMilCo/v2r) 
 ## Usage
-▶️ To use one of these configurations, simply download and open the [all_configs.txt](https://limilco.github.io/v2r/all_configs.txt)  file located in the root directory. This file contains a list of links to various 2ray configuration files that you can use with your V2ray client. 
+▶️ To use one of these configurations, simply download and open the [all_configs.txt](https://v2r.publtd.ir/all_configs.txt)  file located in the root directory. This file contains a list of links to various 2ray configuration files that you can use with your V2ray client. 
 
 ⚠️ The **configs.txt** Subscription contains a too many configs, which may cause problems due to the large file size.
 
 ✅ For a better experience, it is better to use these subs:
 
-**Subscription 1**: https://limilco.github.io/v2r/sub/1.txt
+**Subscription 1**: https://v2r.publtd.ir/sub/1.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/1.txt#V2R-1" />](https://limilco.github.io/v2r/sub/1.txt#V2R-1)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://v2r.publtd.ir/base64/1.txt#V2R-1" />](https://v2r.publtd.ir/sub/1.txt#V2R-1)
 
-**Subscription 2**: https://limilco.github.io/v2r/sub/2.txt
+**Subscription 2**: https://v2r.publtd.ir/sub/2.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/2.txt#V2R-2" />](https://limilco.github.io/v2r/sub/2.txt#V2R-2)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://v2r.publtd.ir/base64/2.txt#V2R-2" />](https://v2r.publtd.ir/sub/2.txt#V2R-2)
 
-**Subscription 3**: https://limilco.github.io/v2r/sub/3.txt
+**Subscription 3**: https://v2r.publtd.ir/sub/3.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/3.txt#V2R-3" />](https://limilco.github.io/v2r/sub/3.txt#V2R-3)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://v2r.publtd.ir/base64/3.txt#V2R-3" />](https://v2r.publtd.ir/sub/3.txt#V2R-3)
 
-**Subscription 4**: https://limilco.github.io/v2r/sub/4.txt
+**Subscription 4**: https://v2r.publtd.ir/sub/4.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/base64/4.txt#V2R-4" />](https://limilco.github.io/v2r/sub/4.txt#V2R-4)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://v2r.publtd.ir/base64/4.txt#V2R-4" />](https://v2r.publtd.ir/sub/4.txt#V2R-4)
 
-👁️ For more Subscription check: [https://limilco.github.io/v2r/sub/](https://limilco.github.io/v2r/sub/)
+👁️ For more Subscription check: [https://v2r.publtd.ir/sub/](https://v2r.publtd.ir/sub/)
 
 
 🗂️ For easier configuration management, we have split the configuration files into individual files for each protocol and added them to the Splitted folder. To have easy access to separated Configs use this : 
 
-Vmess: https://limilco.github.io/v2r/pro/vmess.txt
+Vmess: https://v2r.publtd.ir/pro/vmess.txt
 
-Vless: https://limilco.github.io/v2r/pro/vless.txt
+Vless: https://v2r.publtd.ir/pro/vless.txt
 
-Trojan: https://limilco.github.io/v2r/pro/trojan.txt
+Trojan: https://v2r.publtd.ir/pro/trojan.txt
 
-ShadowSocks: https://limilco.github.io/v2r/pro/ss.txt
+ShadowSocks: https://v2r.publtd.ir/pro/ss.txt
 
-ShadowSocksR: https://limilco.github.io/v2r/pro/ssr.txt
+ShadowSocksR: https://v2r.publtd.ir/pro/ssr.txt
 
-Hysteria: https://limilco.github.io/v2r/pro/hysteria.txt
+Hysteria: https://v2r.publtd.ir/pro/hysteria.txt
 
 
 ## Requirements and How to Use
@@ -98,7 +98,7 @@ Hysteria: https://limilco.github.io/v2r/pro/hysteria.txt
 
 ## Thanks for sources provider:
 ```
-https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+[https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 https://raw.githubusercontent.com/ts-sf/fly/main/v2
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
@@ -112,7 +112,6 @@ https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/s
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
 https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link
-https://v2.alicivil.workers.dev
 https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed
 https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix
 https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt
@@ -121,7 +120,31 @@ https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/pro
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt
 https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt
 https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt](https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+https://raw.githubusercontent.com/ts-sf/fly/main/v2
+https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_4.txt
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/app/sub.txt
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
+https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link
+https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed
+https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix
+https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html
+https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt
+https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt
+https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
+https://raw.githubusercontent.com/Joker-funland/V2ray-configs/main/config.txt
+https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vless.txt
+https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vmess.txt)
 
 ```
 
