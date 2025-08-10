@@ -14,7 +14,7 @@
 
 ❕اگر لینک بالا روی کلاینت شما کار نکرد ، از این لینک استفاده کنید : [configs.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt)
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt" />](https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt)
+[<img width="200" height="200" alt="Base64 All Configs" class="qrimg" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt" />](https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt)
 
 ---
 
@@ -23,22 +23,22 @@
 
 لینک 1 : https://raw.githubusercontent.com/liMilCo/v2r/main/sub/1.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/1.txt#V2R-1" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/1.txt#V2R-1)
+[<img width="200" height="200" alt="Base64 Subscription 1" class="qrimg" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/1.txt#V2R-1" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/1.txt#V2R-1)
 
 لینک 2 : https://raw.githubusercontent.com/liMilCo/v2r/main/sub/2.txt
 
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/2.txt#V2R-2" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/2.txt#V2R-2)
+[<img width="200" height="200" alt="Base64 Subscription 2" class="qrimg" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/2.txt#V2R-2" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/2.txt#V2R-2)
 
 لینک 3 : https://raw.githubusercontent.com/liMilCo/v2r/main/sub/3.txt
 
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/3.txt#V2R-3" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/3.txt#V2R-3)
+[<img width="200" height="200" alt="Base64 Subscription 3" class="qrimg" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/3.txt#V2R-3" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/3.txt#V2R-3)
 
 لینک 4 : https://raw.githubusercontent.com/liMilCo/v2r/main/sub/4.txt
 
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/4.txt#V2R-4" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/4.txt#V2R-4)
+[<img width="200" height="200" alt="Base64 Subscription 4" class="qrimg" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/4.txt#V2R-4" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/4.txt#V2R-4)
 
 
 ❕برای دسترسی به تمام فایل ها، به این فولدر سر بزنید : [https://raw.githubusercontent.com/liMilCo/v2r/main/sub](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/)
@@ -144,5 +144,8 @@ https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vmess.txt
 🙋‍♀️ اگر سوال یا نیاز به راهنمایی دارید، لطفاً از طریق issue تماس بگیرید.
 
 <details> 
-<style> html {direction: rtl;} </style>
+<style> 
+html {direction: rtl;} 
+.highlighter-rouge, .qrimg {direction: ltr;} 
+</style>
 </details> 
