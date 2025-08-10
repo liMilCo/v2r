@@ -41,7 +41,7 @@
 [<img width="200" height="200" alt="Base64 Subscription 4" class="qrimg" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/4.txt#V2R-4" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/4.txt#V2R-4)
 
 
-❕برای دسترسی به تمام فایل ها، به این فولدر سر بزنید : [https://raw.githubusercontent.com/liMilCo/v2r/main/sub](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/)
+❕برای دسترسی به تمام فایل ها، به این فولدر سر بزنید : [https://limilco.github.io/v2r/sub](https://limilco.github.io/v2r/sub/)
 
 
 💡روش **3** برای مدیریت آسان‌تر، فایل‌های کانفیگ به گروه‌های جداگانه بر اساس نوع پروتکل تقسیم شده‌اند. جهت دسترسی آسان به کانفیگ‌های جداگانه از لینک‌های زیر استفاده کنید:
