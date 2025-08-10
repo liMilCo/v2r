@@ -1,62 +1,62 @@
 # 🎁 فیلترشکن رایگان 🌐
 
-[<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://v2r.publtd.ir/README_FA) 
-[<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://v2r.publtd.ir/) 
+[<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://limilco.github.io/v2r/) 
+[<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://limilco.github.io/v2r/README_EN) 
        [<img src="https://img.shields.io/badge/GitHub-liMilCo/v2r-006222.svg?logo=github">](https://github.com/liMilCo/v2r) 
 
 💻 این مخزن مجموعه‌ای از کانفیگ‌های V2ray رایگان است که می توانید با اپلیکیشن کلاینت V2ray خود برای دسترسی به اینترنت به صورت امن و ناشناس استفاده کنید. 
 
 ## راه‌اندازی
 
-💡 روش **1** برای استفاده از یکی از این کانفیگ‌ها فقط فایل [all_configs.txt](https://v2r.publtd.ir/all_configs.txt) را دانلود کرنید. این فایل شامل لینک‌های مختلفی به کانفیگ‌های V2ray است که می توانید با کلاینت V2ray خود استفاده کنید.
+💡 روش **1** برای استفاده از یکی از این کانفیگ‌ها فقط فایل [all_configs.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/all_configs.txt) را دانلود کرنید. این فایل شامل لینک‌های مختلفی به کانفیگ‌های V2ray است که می توانید با کلاینت V2ray خود استفاده کنید.
 
 ⚠️ باید ذکر شود که این فایل هزاران کانفیگ را شامل می‌شود بنابراین احتمال هنگ کردن اپلیکیشن کلاینت شما وجود دارد.
 
-❕اگر لینک بالا روی کلاینت شما کار نکرد ، از این لینک استفاده کنید : [configs.txt](https://github.com/liMilCo/v2r/configs.txt)
+❕اگر لینک بالا روی کلاینت شما کار نکرد ، از این لینک استفاده کنید : [configs.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt)
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/liMilCo/v2r/configs.txt" />](https://github.com/liMilCo/v2r/configs.txt)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt" />](https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt)
 
 ---
 
 
 💡روش **2** برای بهترین عملکرد می‌توانید یکی از این لینک‌ها را به صورت سابسکریپشن داخل نرم‌افزار خود وارد کنید: 
 
-لینک 1 : https://v2r.publtd.ir/sub/1.txt
+لینک 1 : https://raw.githubusercontent.com/liMilCo/v2r/main/sub/1.txt
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://v2r.publtd.ir/base64/1.txt#V2R-1" />](https://v2r.publtd.ir/sub/1.txt#V2R-1)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/1.txt#V2R-1" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/1.txt#V2R-1)
 
-لینک 2 : https://v2r.publtd.ir/sub/2.txt
-
-
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://v2r.publtd.ir/base64/2.txt#V2R-2" />](https://v2r.publtd.ir/sub/2.txt#V2R-2)
-
-لینک 3 : https://v2r.publtd.ir/sub/3.txt
+لینک 2 : https://raw.githubusercontent.com/liMilCo/v2r/main/sub/2.txt
 
 
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://v2r.publtd.ir/base64/3.txt#V2R-3" />](https://v2r.publtd.ir/sub/3.txt#V2R-3)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/2.txt#V2R-2" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/2.txt#V2R-2)
 
-لینک 4 : https://v2r.publtd.ir/sub/4.txt
-
-
-[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://v2r.publtd.ir/base64/4.txt#V2R-4" />](https://v2r.publtd.ir/sub/4.txt#V2R-4)
+لینک 3 : https://raw.githubusercontent.com/liMilCo/v2r/main/sub/3.txt
 
 
-❕برای دسترسی به تمام فایل ها، به این فولدر سر بزنید : [https://v2r.publtd.ir/sub](https://v2r.publtd.ir/sub/)
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/3.txt#V2R-3" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/3.txt#V2R-3)
+
+لینک 4 : https://raw.githubusercontent.com/liMilCo/v2r/main/sub/4.txt
+
+
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/base64/4.txt#V2R-4" />](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/4.txt#V2R-4)
+
+
+❕برای دسترسی به تمام فایل ها، به این فولدر سر بزنید : [https://raw.githubusercontent.com/liMilCo/v2r/main/sub](https://raw.githubusercontent.com/liMilCo/v2r/main/sub/)
 
 
 💡روش **3** برای مدیریت آسان‌تر، فایل‌های کانفیگ به گروه‌های جداگانه بر اساس نوع پروتکل تقسیم شده‌اند. جهت دسترسی آسان به کانفیگ‌های جداگانه از لینک‌های زیر استفاده کنید:
 
-Vmess: https://v2r.publtd.ir/pro/vmess.txt
+Vmess: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt
 
-Vless: https://v2r.publtd.ir/pro/vless.txt
+Vless: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vless.txt
 
-Trojan: https://v2r.publtd.ir/pro/trojan.txt
+Trojan: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/trojan.txt
 
-ShadowSocks: https://v2r.publtd.ir/pro/ss.txt
+ShadowSocks: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ss.txt
 
-ShadowSocksR: https://v2r.publtd.ir/pro/ssr.txt
+ShadowSocksR: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ssr.txt
 
-Hysteria: https://v2r.publtd.ir/pro/hysteria.txt
+Hysteria: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt
 
 
 ## معرفی چند اپلیکیشن کلاینت
