@@ -61,27 +61,27 @@
 <p class="ltr">
        
 Vmess: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt
-
+<br>
 <a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt#V2R-Vmess"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt#V2R-Vmess" /></a>
-
+<br><br>
 Vless: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vless.txt
-
+<br>
 <a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vless.txt#V2R-Vless"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vless.txt#V2R-Vless" /></a>
-
+<br><br>
 Trojan: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/trojan.txt
-
+<br>
 <a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/trojan.txt#V2R-Trojan"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/trojan.txt#V2R-Trojan" /></a>
-
+<br><br>
 ShadowSocks: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ss.txt
-
+<br>
 <a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ss.txt#V2R-ShadowSocks"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ss.txt#V2R-ShadowSocks" /></a>
-
+<br><br>
 ShadowSocksR: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ssr.txt
-
+<br>
 <a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ssr.txt#V2R-ShadowSocksR"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ssr.txt#V2R-ShadowSocksR" /></a>
-
+<br><br>
 Hysteria2: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt
-
+<br>
 <a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt#V2R-Hysteria2"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt#V2R-Hysteria2" /></a>
 
 </p>
