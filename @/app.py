@@ -112,6 +112,7 @@ def filter_for_protocols(data, protocols, old_config):
                         else:
                             filtered_data1.append(line)
     random.shuffle(filtered_data2)
+    random.shuffle(filtered_data1)
     filtered_data = filtered_data1 + ["#  ======= The Old Configs ====================="] + filtered_data2
     return filtered_data
 
