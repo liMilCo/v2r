@@ -105,7 +105,7 @@ def filter_for_protocols(data, protocols, old_config):
                         check_seen = line
                     else:
                         check_seen = line.split('#')[0].split('?')[0]                       
-                    if check_seen not in seen_configs:
+                    if check_seen not in seen_configs and  isOK(line):
                         seen_configs.add(check_seen)
                         if line in old_config:
                             filtered_data2.append(line)
@@ -115,6 +115,14 @@ def filter_for_protocols(data, protocols, old_config):
     filtered_data = filtered_data1 + ["#  ======= The Old Configs ====================="] + filtered_data2
     return filtered_data
 
+# Check if config is good to go
+def isOK(config):
+    itisok = True
+    config = config.lower()
+    if ".workers.dev" in config or ".pages.dev" in config:
+        itisok = False
+
+    return itisok 
 
 
 # Create necessary directories if they don't exist
