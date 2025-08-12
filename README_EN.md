@@ -5,11 +5,30 @@
 [<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://limilco.github.io/v2r/README_EN) 
        [<img src="https://img.shields.io/badge/GitHub-liMilCo/v2r-006222.svg?logo=github">](https://github.com/liMilCo/v2r) 
 ## Usage
-▶️ To use one of these configurations, simply download and open the [all_configs.txt](https://limilco.github.io/v2r/all_configs.txt)  file located in the root directory. This file contains a list of links to various 2ray configuration files that you can use with your V2ray client. 
 
-⚠️ The **configs.txt** Subscription contains a too many configs, which may cause problems due to the large file size.
+### All Configs 🌐
 
-✅ For a better experience, it is better to use these subs:
+▶️ To use one of these configurations, simply download and open the [all_configs.txt](https://limilco.github.io/v2r/all_configs.txt#V2R-All) or [**configs.txt**](https://limilco.github.io/v2r/configs.txt#V2R-All) file located in the root directory. This file contains a list of links to various 2ray configuration files that you can use with your V2ray client. 
+
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/configs.txt#V2R-All" />](https://limilco.github.io/v2r/all_configs.txt#V2R-All)
+
+⚠️ The [**configs.txt**](https://limilco.github.io/v2r/configs.txt#V2R-All) Subscription contains a too many configs, which may cause problems due to the large file size.
+
+---
+### Best Configs ⭐️ (Selected Manually 🕵)
+
+😎 For a best experience, we tested and selected few configs, **Manually**:
+
+
+**Best Subscription**: https://limilco.github.io/v2r/best.txt
+
+[<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://limilco.github.io/v2r/best.txt#V2R-Best" />](https://limilco.github.io/v2r/best.txt#V2R-Best)
+
+
+---
+### Split Configs 🔪
+
+✅ For a better experience, **all_configs.txt** spratet to smaller part, every Subscription contain about 500 configs:
 
 **Subscription 1**: https://limilco.github.io/v2r/sub/1.txt
 
@@ -29,6 +48,8 @@
 
 👁️ For more Subscription check: [https://limilco.github.io/v2r/sub/](https://limilco.github.io/v2r/sub/)
 
+---
+### Specific Protocol Configs 🔀
 
 🗂️ For easier configuration management, we have split the configuration files into individual files for each protocol and added them to the Splitted folder. To have easy access to separated Configs use this : 
 
