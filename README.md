@@ -23,7 +23,7 @@
 ### روش **2**: بهترین کانفیگ ها (آپدیت دستی)
 💡 در این روش به صورت دستی کانفیک ها تست شده و بهترین کانفیگ ها انتخاب شده اند
 
-[<img width="200" height="200" alt="Base64 Best Configs" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt#V2R-Best" />](https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt)
+[<img width="200" height="200" alt="Best Configs" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt#V2R-Best" />](https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt)
 
 ---
 
@@ -60,17 +60,30 @@
 
 <p class="ltr">
        
-Vmess: [https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt#V2R-Vmess)
+Vmess: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt
 
-Vless: [https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vless.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vless.txt#V2R-Vless)
+<a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt#V2R-Vmess"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt#V2R-Vmess" /></a>
 
-Trojan: [https://raw.githubusercontent.com/liMilCo/v2r/main/pro/trojan.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/pro/trojan.txt#V2R-Trojan)
+Vless: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vless.txt
 
-ShadowSocks: [https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ss.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ss.txt#V2R-ShadowSocks)
+<a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vless.txt#V2R-Vless"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vless.txt#V2R-Vless" /></a>
 
-ShadowSocksR: [https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ssr.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ssr.txt#V2R-ShadowSocksR)
+Trojan: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/trojan.txt
 
-Hysteria2: [https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt#V2R-Hysteria2)
+<a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/trojan.txt#V2R-Trojan"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/trojan.txt#V2R-Trojan" /></a>
+
+ShadowSocks: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ss.txt
+
+<a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ss.txt#V2R-ShadowSocks"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ss.txt#V2R-ShadowSocks" /></a>
+
+ShadowSocksR: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ssr.txt
+
+<a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ssr.txt#V2R-ShadowSocksR"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ssr.txt#V2R-ShadowSocksR" /></a>
+
+Hysteria2: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt
+
+<a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt#V2R-Hysteria2"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt#V2R-Hysteria2" /></a>
+
 </p>
 
 
