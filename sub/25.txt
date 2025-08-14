@@ -1,0 +1,6 @@
+#profile-title: base64:8J+OgSBGcmVlIFByb3h5IHwgU3ViIDI1IPCfjI4=
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/liMilCo/v2r
+#profile-web-page-url: https://limilco.github.io/v2r/
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#49%F0%9F%8F%B5%EF%B8%8F%40oneclickvpnkeys`
