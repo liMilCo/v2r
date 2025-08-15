@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/yebekhe/vpn-fail/main/sub-link
 https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
