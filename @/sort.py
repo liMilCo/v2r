@@ -47,7 +47,7 @@ if os.path.exists(local_config_file):
         response_text = f.read()
 else:
     # Fallback to GitHub if local file doesn't exist
-    response_text = requests.get("https://raw.githubusercontent.com/liMilCo/V2ray-config/main/All_Configs_Sub.txt").text
+    response_text = requests.get("https://raw.githubusercontent.com/liMilCo/v2r/main/all_configs.txt").text
 
 for config in response_text.splitlines():
     if config.startswith("vmess"):
