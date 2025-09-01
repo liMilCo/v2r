@@ -8,7 +8,22 @@
 
 ## راه‌اندازی
 
-### روش **1**: همه کانفیگ ها
+### روش **0**: استفاده از نرم افزار **پروکسی یاب**
+<p align="center">
+<a href="#"><img width="565" height="202" alt="image" src="https://github.com/user-attachments/assets/0deec0ea-b1d4-450e-89e3-5f5ff45298b3" /></a>
+</p>
+
+💡 راهنمای استفاده.
+
+
+### روش **1**: بهترین کانفیگ ها (آپدیت دستی)
+💡 در این روش به صورت دستی کانفیک ها تست شده و بهترین کانفیگ ها انتخاب شده اند
+
+[<img width="200" height="200" alt="Best Configs" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt#V2R-Best" />](https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt)
+
+---
+
+### روش **2**: همه کانفیگ ها
  
 💡 برای استفاده از یکی از این کانفیگ‌ها فقط فایل [all_configs.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/all_configs.txt) را دانلود کرنید. این فایل شامل لینک‌های مختلفی به کانفیگ‌های V2ray است که می توانید با کلاینت V2ray خود استفاده کنید.
 
@@ -21,12 +36,6 @@
 
 ---
 
-### روش **2**: بهترین کانفیگ ها (آپدیت دستی)
-💡 در این روش به صورت دستی کانفیک ها تست شده و بهترین کانفیگ ها انتخاب شده اند
-
-[<img width="200" height="200" alt="Best Configs" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt#V2R-Best" />](https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt)
-
----
 
 
 ### روش **3**: جدید ترین کانفیگ ها
