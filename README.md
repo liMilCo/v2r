@@ -10,12 +10,20 @@
 
 ### روش **0**: استفاده از نرم افزار **پروکسی یاب**
 <p align="center">
-<a href="#"><img width="565" height="202" alt="image" src="https://github.com/user-attachments/assets/0deec0ea-b1d4-450e-89e3-5f5ff45298b3" /></a>
+       <a href="https://limilco.github.io/v2r/tester/"><img width="565" height="202" alt="image" src="https://github.com/user-attachments/assets/0deec0ea-b1d4-450e-89e3-5f5ff45298b3" /></a>
 </p>
 
-💡 راهنمای استفاده.
+<p align="center">
+<a href="https://raw.githubusercontent.com/liMilCo/v2r/main/tester/Tester.exe"><img src="https://img.shields.io/badge/exe-Download-7B00FF.svg?logo=pcgamingwiki"></a>
+<a href="https://limilco.github.io/v2r/tester/"><img src="https://img.shields.io/badge/>-User_Guide-72BE50.svg?logo=readme"></a>       
+</p>
 
 
+
+💡 [راهنمای استفاده](https://limilco.github.io/v2r/tester/) | [دانلود نرم افزار](https://raw.githubusercontent.com/liMilCo/v2r/main/tester/Tester.exe)
+
+
+---
 ### روش **1**: بهترین کانفیگ ها (آپدیت دستی)
 💡 در این روش به صورت دستی کانفیک ها تست شده و بهترین کانفیگ ها انتخاب شده اند
 
