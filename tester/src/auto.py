@@ -20,7 +20,7 @@ if sys.platform == 'win32':
 from v2ray2json import generateConfig  #https://github.com/arminmokri/v2ray2json
 #=======================================================================
 
-XRAY_PATH = "xray_test.exe"
+XRAY_PATH = "xray_test.exe" #https://github.com/XTLS/Xray-core
 SRC_CONFIG = "https://raw.githubusercontent.com/liMilCo/v2r/main/sub/1.txt"
 #SRC_CONFIG = "src.txt"
 
@@ -629,4 +629,5 @@ if __name__ == "__main__":
         gui()
     else:
         gui()
+
 
