@@ -8,3 +8,11 @@
 <p align="center">
 <a href="#"><img width="430" height="204" alt="image" src="https://github.com/user-attachments/assets/f132b2b4-07f6-463e-b902-2aacaecf5469" /></a>
 </p>
+
+
+<details> 
+<style> 
+html {direction: rtl;} 
+.highlighter-rouge, .ltr {direction: ltr;} 
+</style>
+</details> 
