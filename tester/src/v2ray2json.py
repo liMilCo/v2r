@@ -1152,11 +1152,13 @@ def generateConfig(config: str, dns_list=["8.8.8.8"]):
         vnext = outbound.settings.vnext[0]
         vnext.address = vmessQRCode.add
         vnext.port = getattr(vmessQRCode, 'port', DEFAULT_PORT) 
+        vnext.port = int(str(vnext.port))
 
         user = vnext.users[0]
         user.id = vmessQRCode.id
         user.security = vmessQRCode.scy if vmessQRCode.scy != "" else DEFAULT_SECURITY
         user.alterId = getattr(vmessQRCode, 'aid', None) 
+        user.alterId = int(str(user.alterId))
 
         streamSetting = outbound.streamSettings
 
