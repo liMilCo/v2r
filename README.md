@@ -44,6 +44,7 @@
 
 ---
 
+💡 با توجه به این که این گانفیگ ها هر 3 روز آپدیت میشوند، کانفیگ های جدید در فایل [new_configs.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/new_configs.txt) و کانفیگ های قدیمی در فایل [old_configs.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/old_configs.txt) به صورت جداگونه ذخیره شده اند.
 
 
 ### روش **3**: جدید ترین کانفیگ ها
