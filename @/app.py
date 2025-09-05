@@ -113,7 +113,8 @@ def filter_for_protocols(data, protocols, old_config):
                             filtered_data1.append(line)
     random.shuffle(filtered_data2)
     random.shuffle(filtered_data1)
-    filtered_data = filtered_data1 + ["#  ======= The Old Configs ====================="] + filtered_data2
+    filtered_data = {"old": filtered_data2, "new": filtered_data1}
+    #filtered_data = filtered_data1 + ["#  ======= The Old Configs ====================="] + filtered_data2
     return filtered_data
 
 # Check if config is good to go
@@ -198,10 +199,30 @@ def main():
     
 
     print("Filtering configs...")
-    merged_configs = filter_for_protocols(decoded_links, protocols, old_config_data)
+    all_configs = filter_for_protocols(decoded_links, protocols, old_config_data)
+
+    merged_configs = all_configs["new"] + ["#  ======= The Old Configs ====================="] + all_configs["old"]
     print(f"Found {len(merged_configs)} unique configs after filtering")
 
     # Write merged configs to output file
+    print("Writing New config file...")
+    output_filename = os.path.join(output_folder, "new_configs.txt")
+    with open(output_filename, "w", encoding="utf-8") as f:
+        f.write(fixed_text)
+        for config in all_configs["new"]:
+            f.write(config + "\n")
+    print(f"Main config file created: {output_filename}")
+
+
+    print("Writing Old config file...")
+    output_filename = os.path.join(output_folder, "old_configs.txt")
+    with open(output_filename, "w", encoding="utf-8") as f:
+        f.write(fixed_text)
+        for config in all_configs["old"]:
+            f.write(config + "\n")
+    print(f"Main config file created: {output_filename}")
+
+
     print("Writing main config file...")
     output_filename = os.path.join(output_folder, "all_configs.txt")
     with open(output_filename, "w", encoding="utf-8") as f:
@@ -209,6 +230,7 @@ def main():
         for config in merged_configs:
             f.write(config + "\n")
     print(f"Main config file created: {output_filename}")
+
 
     # Create base64 version of the main file
     print("Creating base64 version...")
