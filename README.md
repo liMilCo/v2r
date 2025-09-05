@@ -42,10 +42,11 @@
 
 [<img width="200" height="200" alt="Base64 All Configs" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt" />](https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt)
 
----
 
 💡 با توجه به این که این گانفیگ ها هر 3 روز آپدیت میشوند، کانفیگ های جدید در فایل [new_configs.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/new_configs.txt) و کانفیگ های قدیمی در فایل [old_configs.txt](https://raw.githubusercontent.com/liMilCo/v2r/main/old_configs.txt) به صورت جداگونه ذخیره شده اند.
 
+
+---
 
 ### روش **3**: جدید ترین کانفیگ ها
 💡 برای بهترین عملکرد کل کانفیگ ها را به فایل های جدا تقسیم کردیم که در هر فایل حدود 500 کانفیگ وجود دارد، می‌توانید یکی از این لینک‌ها را به صورت سابسکریپشن داخل نرم‌افزار خود وارد کنید: 
