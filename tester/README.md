@@ -37,8 +37,21 @@ Tester.exe subscription_url
 D:\liMilCo\v2r\tester\Tester.exe https://raw.githubusercontent.com/liMilCo/v2r/main/new_configs.txt
 `
 
+---
+
+
 🎬 این برنامه ([auto.py](https://github.com/liMilCo/v2r/blob/main/tester/src/auto.py)) با زبان پیتون نوشده شده و منابع آن را میتوانید در شاخه [tester/src](https://github.com/liMilCo/v2r/tree/main/tester/src) مشاهده کنید.
 
+
+
+
+🌟 اگر این برنامه را ارزشمند یافتید، با دادن ستاره ⭐️ در [گیتهاب](https://github.com/liMilCo/v2r) از ما حمایت کنید همچنین میتوانید ما را به صرف چای مهمان کنید:
+
+💲 TRX or USDT (TRC20)
+
+```
+TEA6H5EgqVsUXF1A157pFhVgpgtcLp2BMa
+```
 
 <details> 
 <style> 
