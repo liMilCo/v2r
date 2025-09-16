@@ -56,6 +56,9 @@ TEA6H5EgqVsUXF1A157pFhVgpgtcLp2BMa
 <details> 
 <style> 
 html {direction: rtl;} 
+body {background-color: #000000;color: #dddddd;}     
+strong {color: #ffffff;} 
 .highlighter-rouge, .ltr {direction: ltr;} 
+.highlight pre {background-color: #1b1f23;}       
 </style>
 </details> 
