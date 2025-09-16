@@ -56,7 +56,7 @@ TEA6H5EgqVsUXF1A157pFhVgpgtcLp2BMa
 <details> 
 <style> 
 html {direction: rtl;} 
-body {background-color: #000000;color: #dddddd;}     
+body {background-color: #181818;color: #dddddd;}     
 strong {color: #ffffff;} 
 .highlighter-rouge, .ltr {direction: ltr;} 
 .markdown-body .highlight pre, .highlight pre, pre {background-color: #1b1f23;}       
