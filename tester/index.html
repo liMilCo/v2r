@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>پروکسی یاب برای فیلتر شکن رایگان</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    html, body {
+      background: #181818;
+      color: #e0e0e0;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .markdown-body {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 2em;
+      background: #222;
+      border-radius: 16px;
+      box-shadow: 0 0 32px #0006;
+    }
+    a { color: #00AAFF; }
+    strong { color: #fff; }
+    code, pre {
+      background: #1b1f23;
+      color: #e0e0e0;
+      border-radius: 4px;
+      padding: 2px 4px;
+      direction: ltr;
+    }
+    details {display: none;}
+    p:has(code) {direction: ltr;}
+    img { filter: brightness(0.85); }
+  </style>
+</head>
+<body>
+  <div class="markdown-body">
+    <h1>🕵 پروکسی یاب 🔍</h1>
+    <center>در حال بارگزاری ...</center>
+  </div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+fetch('https://raw.githubusercontent.com/liMilCo/v2r/main/tester/README.md')
+  .then(res => res.text())
+  .then(md => {
+    document.querySelector('.markdown-body').innerHTML = marked.parse(md);
+  });
+</script>
+</body>
+</html>
+
+
