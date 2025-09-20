@@ -1,4 +1,4 @@
-# 🎁 فیلترشکن رایگان 🌐
+# 🎁 فیلترشکن رایگان + پروکسی یاب 🕵
 
 [<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://limilco.github.io/v2r/) 
 [<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://limilco.github.io/v2r/README_EN) 
