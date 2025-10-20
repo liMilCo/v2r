@@ -1,0 +1,7 @@
+#profile-title: base64:8J+OgSBGcmVlIFByb3h5IHwgU3ViIDIzIPCfjI4=
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/liMilCo/v2r
+#profile-web-page-url: https://limilco.github.io/v2r/
+vless://20f77870-2b60-4fb8-afc9-60d4cfe6fbb5@93.127.180.102:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=&encryption=none&headerType=&type=tcp#🇦🇪[Telegram:NetifyVPN]
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=VyFlPo6269.SoLeNtRaA.iNfO&amp;fp=chrome&amp;type=ws&amp;sni=VyFlPo6269.SoLeNtRaA.iNfO#🔥Join+Telegram:@Farah_VPN🟣
