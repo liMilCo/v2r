@@ -1,32 +1,24 @@
-# Updated:    Fri Oct 24 00:57:25 2025    ||    Added: (399) Configs     ||    From: [https://raw.githubusercontent.com/liMilCo/v2r/main/new_configs.txt]
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?type=grpc&path=/#🇳🇱 NL 78
+# ReSelected:  Fri Oct 24 23:26:31 2025    ||   Total: (324) Configs.
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964097652658866.lisbon-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966948746487714.qazvin-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🔥Join+Telegram:@Farah_VPN🟣
 vmess://eyJhZGQiOiAiOC4yMTcuMTI0LjgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjFmOGRhYWIzLTM0ZjktNGQwMS05MTRjLTcxYzU2YzQxYzAzOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAxNDE2NSwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852259960.esfahan-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vmess://eyJhZGQiOiAiOC4yMTcuMTU4LjkyIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJhMzg0NmU1MC05OTM1LTRiNDktYmI3Yy1jZTI1OGYzMjUzYjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJwb3J0IjogMjU1MDYsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&sid=89dbda1a1c9369&type=tcp&headerType=none#@Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#🇹🇷 TR 4
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@102.207.216.176:990#🇩🇿 DZ 1
 vless://37d95fc6-9bc2-44de-9a67-e122821475b9@62.60.247.164:8880?encryption=none&type=ws&host=websocket.network.www.speedtest.net.kkoccashor.vegaskala.com.&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&security=none#m15pz4lx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🇳🇴 NO 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#🇳🇱 NL 75
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.31.230:990#>>@free4allVPN::VN
-vmess://eyJhZGQiOiAiOC4yMTcuMTI0LjgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjNhZDBmZmI5LWViNDItNGY2Yy05YTE3LTFiMjYxZTQwZDQxNyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiA0OTk3MSwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653655787.lahijan-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#🛳🛶🏄‍♀1
 vmess://eyJhZGQiOiI0Ni42Mi4yMTQuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI5OWMzYTcwNy1kMWYxLTRhN2QtYTUzNy03MTZhNzU0MjU2MWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgxIiwicHMiOiJAVjJSQVlST1oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279961472.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#>>@configV2rayNG::US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDREFHRVlBQjFndmNJckZaWWhVYkVN@62.133.63.222:48981
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951257223808.copenhagen-prx-dnraacu.info:8880?security=&encryption=none&type=grpc#>>@configV2rayNG::XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#🇳🇱 NL 64
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943425567574299.brussels-prx-dnraacp.info:8880?security=&encryption=none&type=grpc#>>@configV2rayNG::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960582852348956.paris-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇳🇱 NL 65
-vmess://eyJhZGQiOiI4LjIxMC4yMTIuMTk2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiOWZjMDQzLTJjNzAtNDJlYi04OGMwLTY2ODA0Y2EzMzA2MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkXHUwMDNkMjA0OCIsInBvcnQiOiIzNDM0OCIsInBzIjoi8J+UkCBAQWJsTmV0NyDwn4et8J+HsCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852260413.esfahan-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.122.221:8880?mode=gun&security=none&encryption=none&type=grpc#🙋‍♀🤷‍♀🙍‍♀7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#🇵🇱 PL 7
@@ -36,13 +28,10 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852270917.esfahan-blkaft-a
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960582852354160.paris-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.33.47:990#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967500853360616.mashhad-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975314214829.dublin-drc-tusabu.info:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.93.173.60:990#🇧🇴 BO 1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?encryption=none&security=tls&sni=smart.trevanda.info&alpn=h3,h2&fp=chrome&type=ws&host=smart.trevanda.info&path=/#@Daily_Configs
 vmess://eyJhZGQiOiAiNDcuMjQzLjI1MS4yNDAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImFlZDY1NGEzLTk3YmItNGJhNi1hNmMzLWZhZWE0NmJlZmM3MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAiODg0MiIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?type=grpc&path=/#🇬🇧 GB 10
-vmess://eyJhZGQiOiAiOC4yMTAuMjEyLjE5NiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYmRiNDYyODktOWI0Mi00NDdhLWI1ZGItMTQ1MzMyNGRjNDBiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDQzMTQ5LCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?security=none&encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 18
 vmess://eyJhZGQiOiI4LjIxOC4xNzUuNjQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNWI5NTc1YzMtYzQwNC00YzkzLTk4ZjgtNjM1ODFlODhmZmRmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiOTc1NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSEsgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAbmV0ZnJlZWRvbTAgWzE4XSJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#>>@flyv2ray::XX
@@ -52,7 +41,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusa
 vless://54c06c38-a570-4ba0-9ae2-405eb24e8627@193.233.19.241:9090?security=tls&sni=shop.smnsoft.com&fp=chrome&type=tcp&headerType=none&path=/#🇳🇱 NL 74
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.155:8080#@AblNet7 🇮🇷 نت ملی 🇳🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129816352.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLME1jblJGNnY2NGs3bzN0ZVo2RjQ5@46.253.4.25:35916#🇸🇪
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
@@ -62,699 +50,175 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342840960.esfahan-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.97:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#telegram @MTMVPN 10
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967288453104894.lahijan-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929368515.rasht-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.55:443?sni=www.nintendogames.net&path=/#🇭🇰 HK 1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?mode=gun&security=none&encryption=none&authority=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#@HiByeVPNN👈🌿💎
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#🇳🇱 NL 61
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWjdpYkJ5cFdZSHNsWDloemV0ZU12@81.19.141.45:443#🇩🇪 DE 21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTDVSYkxNNGV0VnAzdksxWVFHNkFw@81.19.141.45:443#🇩🇪 DE 44
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@119.65.139.101:60001?security=tls&type=ws&path=/x@节点狂魔&host=gaosir.unfeeling.sbs&allowInsecure=1&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 14
-vless://1df684ae-6299-4170-8c96-40c4381825c8@104.21.70.241:443?path=/Free-VPN-CF-Geo-Project/AM1&security=tls&encryption=none&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZ2haa09SdlY0Z3J2ZWtESjlXY2dl@172.238.21.121:64919?note=--Telegram--@NetifyVPN--#🇯🇵[Telegram:NetifyVpn]
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6nwn4eqIERFIDIyIiwiYWRkIjoiNTcuMTI5LjI0LjEzMiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6InNlcmthdC5vcmciLCJhbHBuIjpudWxsLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmthdC5vcmciLCJmcCI6bnVsbH0=
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&sni=wus01.weyaf9sdoh2h.space&type=tcp&path=/#🇺🇸 US 2
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?type=grpc&path=/#🇫🇷 FR 34
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#🇳🇱 NL 52
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSM21LeGUyQzc1dzVLTGlrNWRoWlhu@81.19.141.45:443#🇩🇪 DE 7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6nwn4eqIERFIDI2IiwiYWRkIjoiNTcuMTI5LjU5LjE5MyIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6InNlcmthdC5vcmciLCJhbHBuIjpudWxsLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJrYXQub3JnIiwiZnAiOm51bGx9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNGVPN+<=+کانفیگ+رایگان
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6vwn4e3IEZSIDUiLCJhZGQiOiI5MS4xMzQuOC4xMDAiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJrYW1wb25nLm9yZyIsImFscG4iOm51bGwsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoia2FtcG9uZy5vcmciLCJmcCI6bnVsbH0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=&encryption=none&authority=/?Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#🇫🇷@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638963987336039271.dublin-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-vmess://eyJhZGQiOiI5MS4xMzQuOC45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieWljaHVlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Nq1RlbGVncmFtOlJfdjJyYXlfY29uZmlnc/CfjasiLCJzY3kiOiJhdXRvIiwic25pIjoieWljaHVlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#🇳🇱 NL 45
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:4452?sni=www.nintendogames.net&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 01
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930287805772573.helsinki-drc-dcrabj.info:8880?security=&encryption=none&type=grpc#>>@configV2rayNG::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#🇳🇱 NL 31
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880/?type=grpc&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940926058844815.stockholm-prx-dnraacm.info:8880?security=&encryption=none&type=grpc#>>@configV2rayNG::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945203009150639.gorgan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+:+@V2rayEnglish`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#🇫🇮 FI 4
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#@meli_proxyy
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.tradingview.com&fp=chrome&security=reality&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=9917d2350096#>>@oneclickvpnkeys::XX
-vless://48bbb385-8877-4b2d-8f42-d81df401725d@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config 5.5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@218.146.200.8:50001?security=tls&type=ws&path=/x @节点狂魔&host=gaosir.unfeeling.sbs&allowInsecure=1&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 16
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg5py65Zy65o6o6I2QOmRhZmVpLmRlIOe+juWbvSAwOCIsImFkZCI6IjIxMi4xOTIuMTUuMTc2IiwicG9ydCI6IjIyMTI2IiwiaWQiOiI5MDUzZjE5Ni1kZjI0LTQ3ZWUtYTEyMC02Y2E3ZWVhNDJkYjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config 92
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#🇰🇿 KZ 1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Xwn4exIFBMIDMiLCJhZGQiOiI1Ny4xMjguMjE2LjEyNSIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImthbXBvbmcub3JnIiwiYWxwbiI6bnVsbCwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrYW1wb25nLm9yZyIsImZwIjpudWxsfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#🇳🇱 NL 53
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.217:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#🇬🇧GB-57.129.140.88-0229
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?security=tls&sni=wus05.weyaf9sdoh2h.space&type=tcp&path=/#🇺🇸 US 7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964983138648841.tabriz-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252142128.shiraz-prx-dnraact.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+:+@V2rayEnglish`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#🇿🇦 ZA 1
-vmess://ewogICAgImFkZCI6ICIxNTQuNjQuMjQzLjE5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5YmMyM2NjZi00NzY5LTRlOWEtYjI3OC0yZGZhOGQ5ZWY0MjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMzg1MzMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xNTQuNjQuMjQzLjE5LTAyNjUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960582852349799.paris-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.200.195:443?security=reality&encryption=none&sni=store.steampowered.com&fp=chrome&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&spx=/&type=tcp&path=/#🇦🇪 AE 1
-trojan://1df684ae-6299-4170-8c96-40c4381825c8@104.21.70.241:443?path=/Free-VPN-CF-Geo-Project/AM1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇵@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=&encryption=none&type=grpc#@HiByeVPNN👈⚡❤️‍🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#🇳🇱 NL 73
-vless://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?encryption=none&security=tls&sni=mojito.soyet2j.ir&type=ws&host=mojito.soyet2j.ir&path=/homepage?ed=2560#t.me/entryNET/config=1846632312025561
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#🇪🇸 ES 6
-vmess://ewogICAgImFkZCI6ICIyMDkuMTI2Ljg0LjE4OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjIwOS4xMjYuODQuMTg5IiwKICAgICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3N3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTIwOS4xMjYuODQuMTg5LTA2NzEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vless://51aec85c-ef81-401f-8d6c-18a5e31c6c31@axe.soyet2j.ir:2053?path=/homepage?ed=2560-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@V2rayNGVPN <= کانفیگ رایگان
-vmess://eyJhZGQiOiIxOTQuMjMzLjczLjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YjZkNmU2NC1kOTdhLTQ1MjMtOTJiMy03MTdhNDYxY2M4NjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoi8J+Nq1RlbGVncmFtOlJfdjJyYXlfY29uZmlnc/CfjasiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?encryption=none&type=grpc&path=/#🇱🇹 LT 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#🇳🇱 NL 2
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Lwn4e+IE1ZIDQiLCJhZGQiOiI0Ny4yNTAuMTEyLjkzIiwicG9ydCI6MjA1MjIsImlkIjoiNjVmZmIwNzAtZDI2My00ZTBkLWI4YzEtMmMwNGE2NDNkMjliIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3RlbGVncmFtX0Bzc3dpYSIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.hiddendom.shop#>>@FreakConfig::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#🇳🇱 NL 72
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cFhRMXBMSnp4bkJIMjhYdzUwbmU5@77.83.246.74:443#🇵🇱 PL 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#🇭🇰 HK 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#>>@ShadowsocksM::XX
-vless://ddab5550-3938-4aba-943c-f23a08d07dc5@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config 7.77
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967500853385893.mashhad-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🔥Join+Telegram:@Farah_VPN🟣
-vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInlpY2h1ZW5nLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogInlpY2h1ZW5nLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.76.218.163:443?security=tls&type=ws&path=/Telegram@freecodes/?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 15
-vmess://eyJhZGQiOiAiOC4yMTguMTQwLjI3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI1ODU0Yjg3Ny0yYjMwLTQ1N2EtYjczMC04MzdhYTU5NzYyNzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJwb3J0IjogMzkxNzQsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJR2VKdGtzNkRuWnhmcEVQTlpLS3lp@194.87.45.189:443#🇪🇸 ES 3
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6jwn4emIENBIDEwIiwiYWRkIjoiMTUuMjM1Ljg1LjE1NiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImthbXBvbmcub3JnIiwiYWxwbiI6bnVsbCwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrYW1wb25nLm9yZyIsImZwIjpudWxsfQ==
-vless://e77a10bc-1269-4e38-bca5-6363498ad146@axe.soyet2j.ir:2053?encryption=none&security=tls&sni=mojito.soyet2j.ir&type=ws&host=mojito.soyet2j.ir&path=/homepage?ed=2560#🍫Telegram:R_v2ray_configs🍫
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#🇺🇸 US 19
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441001.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&path=/#🇸🇦 SA 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#🇳🇱 NL 28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#🇵🇹 PT 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#🇦🇷 AR 1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880/?type=grpc&encryption=none#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966456537800851.london-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vmess://eyJhZGQiOiI0NS4yMzEuMTMyLjQ2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyM2JkZjZkZi1jNDgyLTQ2ZDAtYzBmNC01YTk4ZDUzNGVhMTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGVzdCIsInBvcnQiOjQ1OTc5LCJwcyI6IvCfjatUZWxlZ3JhbTpSX3YycmF5X2NvbmZpZ3Pwn42rIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?mode=gun&security=none&alpn=http/1.1&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&fp=chrome&type=grpc&sni=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)#🇬🇧TM (@AZARBAYJAB1) GPRS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342838285.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh63wn4ewIEhLIDgiLCJhZGQiOiI4LjIxNy45Mi4xMTAiLCJwb3J0IjoyMDUyMiwiaWQiOiIzMWUxZjkwZi0wMjE4LTQwOTctOTFmOS1hNDJkZjliMzMzNGEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvdGVsZWdyYW1fQHNzd2lhIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?encryption=none&security=none&type=grpc#@Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkVVJySTNWMW00Mk5MZXc5dkprNlhD@95.163.176.37:8506#🇦🇹 AT 2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966456596320896.malayer-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://6f1eebdf-4cb5-40c4-96e5-bf8b5d0a79ba@www.rexo.online:8880?security=&encryption=none&authority=iranserver.com&type=grpc&serviceName=iranserver.com#@RexoPing-free`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959558652399004.arak-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.143:8880?mode=gun&security=none&encryption=none&type=grpc#🤓🦕🦖9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359329765.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255889101.oslo-prx-dnraacu.info:8880?security=&encryption=none&type=grpc#>>@configV2rayNG::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNWdSU0hKUU1CTmFVMWYwSzM0Wkx2@81.19.141.45:443#🇩🇪 DE 36
 vmess://ewogICAgImFkZCI6ICI0Ny4yNTAuMTEyLjkzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkOWQ2OTUxMi0yMmE1LTQ5N2QtYjkyNy0xMjU2YzdjN2Y2OTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogNTkyNzcsCiAgICAicHMiOiAi8J+HsvCfh75NWS00Ny4yNTAuMTEyLjkzLTU1OTAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.106.200.93:80#limo
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#🇮🇳 IN 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.153.107:990#🇨🇱 CL 1
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.81.226.31:80#🇺🇸 US 55
-vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiSVItQFYycmF5X0FscGhhLS0xOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=vmess
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcU5TZUtQMTFkeHRyeG5WRzQ1NmNp@81.19.141.45:443#🇩🇪 DE 39
-ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#🇯🇵 JP 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#🇳🇱 NL 54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#🇵🇪 PE 1
-vmess://ewogICAgImFkZCI6ICI0Ny4yNTAuMTEyLjkzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIwNjZkYmVlOC1jNzE5LTRkMTItODFmZC01MThhNzRkZGEzNzUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogNDA2OTgsCiAgICAicHMiOiAi8J+HsvCfh75NWS00Ny4yNTAuMTEyLjkzLTU1ODciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://48bbb385-8877-4b2d-8f42-d81df401725d@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan - RVP - IT - I - 🟣 t.me/Rayan_Config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.148.135.31:990#🔥Join+Telegram:@Farah_VPN🟣
-vless://2988936d-3c33-4572-900c-40df2c63faa0@nl.horizongatex.org:2087?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=nl.horizongatex.org#🇳🇱@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?type=grpc&path=/#🇫🇷 FR 30
-vless://ce608e7b-23ee-4562-a80f-eeebccee67c8@89.117.78.129:20446?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=ZqiKOLlxC5nVCXsth6QnaVDGk_4R-4xSVpnW0tHDl2Q&fp=chrome#>>@DailyV2RY::US
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955304452711968.lahijan-prx-dnraact.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷[Telegram:@tik7net_vpn]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE2NmM1YjM0NjU1NDBm@212.224.125.154:57456#🇩🇪 DE 59
-ss://YWVzLTI1Ni1nY206ZWNlNDBjYWUtZmIwNS00MWQ2LWFiNWUtODcwMDkwZjI1ZDkz@3.129.133.36:30000#@V2rayNGVPN+<=+کانفیگ+رایگان
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?type=grpc&path=/#🇫🇷 FR 14
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://9c8b8aec-7a20-4271-8a4f-a87bb029dae9@ktff.tencentapp.cn:443?path=/security=tls&security=tls&encryption=none&host=sp5.sutu.eu.org&type=ws&sni=sp5.sutu.eu.org#🇺🇲@FreakConfig
-vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMTk5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQWxsLUBWMnJheUFscGhhLS0zNCIsInNjeSI6ImF1dG8iLCJzbmkiOiJwZWxhbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=vmess
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937994136550920.prague-prx-dnraacl.info:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇵@FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#🇳🇱 NL 38
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&authority=?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&type=grpc#🇨🇵@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966622454180160.helsinki-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#>>@configV2rayNG::US
-trojan://8ac7f794-efa6-42cf-9d87-482af2824472@172.67.168.193:443?path=/Free-VPN-CF-Geo-Project/AE1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#t.me/entryNET/config=1846581356964726
-vmess://eyJhZGQiOiJzZXJrYXQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBTaGFkb3dzb2Nrc006OkRFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://f31f5fe0-0a42-436a-be94-437330801388@141.98.168.41:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#🔥Join+Telegram:@Farah_VPN🟣
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819106.dezful-drc-tusaas.info:8880?security=&encryption=none&type=grpc#🍫Telegram:R_v2ray_configs🍫
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#🇳🇱 NL 17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#🇳🇱 NL 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Mno3SkxGWkV4cmh6VDFTcG5YaDI3@89.185.84.185:443#🇬🇧 GB 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQUUwU1E2OElqQmhUcXRkdGFRSHJS@81.19.141.45:443#🇩🇪 DE 11
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@83.228.208.219:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#🇨🇭 CH | 🔒 VLESS | @prrofile_purple [149]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.250:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT تست و خرید
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943040460374197.qazvin-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+:+@V2rayEnglish`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.57.90:990#>>@free4allVPN::BR
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@222.113.18.207:16030?security=tls&type=ws&path=/X@节点狂魔&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#🇳🇱 NL 60
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.19.50.238:2096?security=tls&type=ws&path=/telegram🇨🇳@wangcai2/?ed=2560&host=gaosir.unfeeling.sbs&allowInsecure=1&sni=gaosir.unfeeling.sbs&fp=chrome#🇺🇸 机场推荐:dafei.de 美国 18
-vless://4a4c08c2-0e58-4781-8729-f6873a7b1996@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=black-orDeR.ONEeAt.CO&type=ws#>>@DailyV2RY::AU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#🇳🇱 NL 8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#🇪🇸 ES 5
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?encryption=none&security=none&type=grpc#@Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#🇵🇷 PR 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#🇺🇸 US 60
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#🇻🇳 VN 268
-vmess://ewogICAgImFkZCI6ICI4LjIxNy4xNTguOTIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImIyMjQ4NzVlLTk4YTYtNDQ3Ny1hMWVlLTUzMzg4N2I2NzAxZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiA0OTc2MSwKICAgICJwcyI6ICLwn4et8J+HsEhLLTguMjE3LjE1OC45Mi01NjIyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vless://ddce4f3a-e99a-47de-8d93-feeb77fd358a@179.43.156.21:8443?path=/Free-VPN-CF-Geo-Project/CH2&security=tls&encryption=none&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOeVZJYVBtUnhzTHhyMFJZUWZSQlRi@81.19.141.45:443#🇩🇪 DE 55
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-vmess://ewogICAgImFkZCI6ICI0Ny4yNDMuMzkuMTczIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI4OTkzZWE5MS1kNDM3LTQ4OTktYTZkOS0xZGNjMGFhMTc4MjAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdGVsZWdyYW1fQHNzd2lhIiwKICAgICJwb3J0IjogMjA1MjIsCiAgICAicHMiOiAi8J+HrfCfh7BISy00Ny4yNDMuMzkuMTczLTU1NTMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441863516.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vmess://ewogICAgImFkZCI6ICIxNDYuNTkuODUuMjI2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAicGVsYW5nLm9yZyIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAibGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTE0Ni41OS44NS4yMjYtMTE3MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#@meli_proxyy
-ss://YWVzLTI1Ni1nY206MjZmNzI2ZjUtMGUzMS00Nzg0LWFkNmYtNDhkMDZhOWEyODA2@3.129.133.36:30000#🇺🇸US-3.129.133.36-0267
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#🇵🇱 PL 2
 vmess://eyJhZGQiOiAiMTYwLjMwLjU0LjY3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI0NjUxZDU1MC1hYjRlLTRlNzYtOTMyMC1mNDRmYzJhMDE4OWYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbGVncmFtX0Bzc3dpYSIsICJwb3J0IjogMjA1MjIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6nwn4eqIERFIDM1IiwiYWRkIjoiNTcuMTI5LjU5LjE5OSIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImthbXBvbmcub3JnIiwiYWxwbiI6bnVsbCwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJrYW1wb25nLm9yZyIsImZwIjoiY2hyb21lIn0=
-vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443/?type=ws&encryption=none&flow=&host=profit.fullmargintraders.com&path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&sni=profit.fullmargintraders.com#>>@oneclickvpnkeys::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozc1dZN0pmTlgyb0RHUVBtVHgxREZQ@194.87.45.189:443#🇪🇸 ES 4
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129810487.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#🇳🇱 NL 26
-vless://dea991b4-696f-4e9e-9761-1e1b31bb02de@162.159.38.111:443?path=/snippets&security=tls&encryption=none&host=2.294294.xyz&fp=chrome&type=ws&sni=2.294294.xyz#🔥Join+Telegram:@Farah_VPN🟣
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024898748.lisbon-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#MCI-@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946366858945512.rome-prx-dnraacq.info:8880?security=&encryption=none&type=grpc#>>@configV2rayNG::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965720991613536.ahvaz-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnhNZmoyb0wyUmFaVFFWZlZkNUVZ@194.87.45.189:443#🇪🇸 ES 2
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2283?sni=www.baidu.com&allowInsecure=1&fp=chrome#🇸🇬 机场推荐:dafei.de 新加坡 02
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?type=grpc&path=/#🇬🇧 GB 11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964503850730101.prague-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965901655649243.copenhagen-blkaft-aaas.info:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#@meli_proxyy
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDMuMjUxLjI0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTVkYTM0MmYtNDVmZi00MzdiLWJlYzYtNTUyMDI5OWNiMGRkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDI0MjI1LAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQzLjI1MS4yNDAtNTUxMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://Parsashonam-Bot-33@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381272914.rasht-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#>>@ShadowsocksM::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#🇺🇦 UA 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#🇲🇩 MD 1
-vless://aa690163-f024-4929-bbdd-14d6f9df69b1@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&host=hIppOPOTamus.ZulaIr.siTE.&type=ws&sni=hIppOPOTamus.ZulaIr.siTE.#>>@free_nettm::US
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116437663.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965721043634926.bandar-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434433309.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931428657467505.kish-drc-tusabu.info:8880?security=&encryption=none&type=grpc#>>@configV2rayNG::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966456596317318.malayer-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🇹🇼 TW 2
 vmess://eyJhZGQiOiAiOC4yMTcuMTU5Ljk2IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIyM2VhMGI3NS0yMDZiLTRlM2ItYjYyNC1lMDkzZDU4MDhiZjgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJwb3J0IjogNDc4NzIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@94.156.250.122:990#@Daily_Configs
 vless://37e7881f-ff59-4858-83cd-c6b4b03cba4a@64.188.78.60:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=0ZbtEmi2lk_KUh1-w6g08hnSn863LZwj30vSHWS-NCU&sid=ee009b&spx=/H60wnRP591U6Dkw#🇪🇪@SiNAVM کانال تلگرامی
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#@vmesskhodam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#🇫🇮 FI 2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=&type=tcp&encryption=none#🇮🇳 IN | 🔓 VLESS | @v2ray_collector [16]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?type=grpc&path=/#🇬🇧 GB 13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphT21udlh5cHVHTXF4c2NidjZwYTRC@104.192.227.162:443#🇺🇸 US | 🔒 SS | @key_outline [19]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4OFVSRWUyeU51TTlkdkUyNm53aUNL@81.19.141.45:443#🇩🇪 DE 33
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#🇳🇱 NL 37
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060330315.warsaw-prx-dnraacp.info:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVXBvZVF5OTlqa2tGOHR4U3k0NHFi@81.19.141.45:443#🇩🇪 DE 29
 vless://3a4524bb-5d17-4c09-b523-6ab1e1a41d81@45.12.135.7:8443?security=reality&encryption=none&pbk=blSlAMMTv5UdIZiQd6VtBlS7kfZJ9xpw9H95Ouohbxs&headerType=none&fp=chrome&spx=/default&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=4bb9dbdad476124c#Finland 🇫🇮
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@27.100.189.152:50000?security=tls&type=ws&path=/telegram @freecodes&host=gaosir.unfeeling.sbs&allowInsecure=1&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 11
-vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiI+PkBTaGFkb3dzb2Nrc006OlhYIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cTQ1UldxZFVtM3lqcUJRcGw5dEJD@81.19.141.45:443#🇩🇪 DE 54
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 US 18
-vmess://eyJhZGQiOiAiNDYuNjIuMjE0LjIyOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTljM2E3MDctZDFmMS00YTdkLWE1MzctNzE2YTc1NDI1NjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJjeXJ1cy52MmJhenphci5pciIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#🇳🇱 NL 76
-vmess://ewogICAgImFkZCI6ICI0Ny44My4xNzQuMTMxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIxMmMyNGZlZC0xMDc5LTQxZDYtYWI1MS00ZThhYjNjYzEyNjciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogMjk0OTMsCiAgICAicHMiOiAi8J+HrfCfh7BISy00Ny44My4xNzQuMTMxLTU2NjMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMG02RXlJV0xvNFl5QkZlcWVaa050@81.19.141.45:443#🇩🇪 DE 46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#🇨🇴 CO 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#🇲🇦MA-154.70.207.97-5586
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#@AblNet7 🇮🇷 نت ملی
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVkJZUmtTa0hsVHFlYlNKckdjMkM3@81.19.141.45:443#🇩🇪 DE 32
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#🇩🇪 DE 27
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.250:8880?mode=gun&security=none&encryption=none&type=grpc#🚜⛵️🛰8
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@de.nitroo-tech.ru:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#@Hddify |^| چنل هدیفای
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVG51WV9VMjF6VThGUGtDR1hkZDhB@68.183.236.145:1080#limo
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&allowInsecure=1&sni=ovhwuxian.pai50288.uk&fp=chrome#🇺🇸 机场推荐:dafei.de 美国 19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#🇳🇱 NL 7
-vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&sid=29489194da0d5d#>>@oneclickvpnkeys::NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#🇮🇩 ID 1
-vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443?security=tls&type=ws&path=/wsv/6c11247b-6078-461a-93d5-22e4df284e6d&host=mirror.fullmargintraders.com&allowInsecure=1&sni=mirror.fullmargintraders.com&fp=chrome#🇺🇸 机场推荐:dafei.de 美国 21
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022190781868.ahvaz-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#🇳🇱 NL 71
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#🇳🇱 NL 43
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?sni=www.nintendogames.net&fp=chrome#🇺🇸 机场推荐:dafei.de 美国 01
-vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&host=-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&headerType=none&spx=/@skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#@V2rayNGVPN <= کانفیگ رایگان
-vless://5915f034-a53b-4b63-b0e7-b29194de3fe9@bitpay.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config 9.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRk1JOFd1SnNoS1dpRnptZWpXN3cz@95.164.123.196:57493#🇩🇪
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?sni=www.nintendogames.net&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 03
-vmess://ewogICAgImFkZCI6ICIzOC45OS44Mi4xOTMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ0aWxlYmFuaS5jb20iLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMzguOTkuODIuMTkzLTA5NTEiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#🇮🇳 IN 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#🇳🇱 NL 14
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vmess://ewogICAgImFkZCI6ICI5MS4xMzQuOC45MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInBlbGFuZy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi05MS4xMzQuOC45My0xMTcyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521662009295.budapest-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🌍
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?type=grpc&path=/#🇳🇱 NL 51
-vless://eb64d6b8-b3ed-48a2-9662-af2c65352215@ltu01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#🇱🇹 Lithuania | @confegraigan```
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.15:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config 86
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#🇦🇹 AT 1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929381453.rasht-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://d36f457f-17a9-4891-a113-322ec6792917@m13a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=/&security=none#🇩🇪@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6WnN0dVg0aG5rblBrVnh2T2I4SXk1@81.19.141.45:443#🇩🇪 DE 40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.170:8080#🇳🇱 NL 66
-vless://af5da7e4-394c-431a-a308-7d772261aedc@104.21.70.241:443?path=/Free-VPN-CF-Geo-Project/AD1&security=tls&encryption=none&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#t.me/entryNET/config=1846590789742133
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
-vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiPj5AU2hhZG93c29ja3NNOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QkVRRkZVc0JwcGRSdTBESjZGbUFC@81.19.141.45:443#🇩🇪 DE 38
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279966763.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#🇳🇱 NL 21
-vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?security=none&encryption=none&headerType=none&type=tcp#🛳🛶🏄‍♀8
-vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c&type=tcp&headerType=none#@Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#🇷🇴 RO 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#🇻🇳 VN 298
-vmess://eyJhZGQiOiI5MS45OS4xODUuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6Ij4+QFNoYWRvd3NvY2tzTTo6WFgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#🇫🇮 FI 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#🇳🇱 NL 58
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966666479229399.mashhad-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#@AZARBAYJAB1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bWRPSWlPWjZxMkpkcVdZV2oxaXpE@81.19.141.45:443#🇩🇪 DE 51
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966654853737260.dublin-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun&security=none&encryption=none&type=grpc#✅ @vistav2ray  👈👈کانال ما
-vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?encryption=none&security=tls&sni=frAgteSt.JaHANGiRKh.eU.orG&type=ws&host=frAgteSt.JaHANGiRKh.eU.orG&path=/#t.me/entryNET/config=1846609663861569
-vless://17108cd5-ddcf-4b6e-bb43-36a711a01366@medium.com:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config 4.44
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&type=tcp&headerType=none&host=glowingpickle.bananatornado.click&path=/#🇮🇶 IQ 1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638963987336038022.dublin-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#🇨🇴TM (@AZARBAYJAB1) GPRS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880/?type=grpc&encryption=none&flow=#>>@oneclickvpnkeys::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?security=&encryption=none&type=grpc#>>@configV2rayNG::XX
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@43.156.107.236:12131?security=tls&type=ws&path=/x @节点狂魔 /&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs#🇸🇬 机场推荐:dafei.de 新加坡 10
-vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=/&security=none#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108687.dublin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#🇳🇱 NL 50
 vmess://ewogICAgImFkZCI6ICI4LjIxNy4xNTguOTIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjdlY2FjMzc2LTE4MDktNGY3Mi1iZDU5LWFhOTNkNzQ4YTgyMiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiA1MDA2MCwKICAgICJwcyI6ICLwn4et8J+HsEhLLTguMjE3LjE1OC45Mi01NjE2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?sni=www.nintendogames.net&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 02
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381278790.rasht-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#>>@ShadowsocksM::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ==@sgmob222.asuscomm.com:8899#🔥Join+Telegram:@Farah_VPN🟣
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇵@FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#🇳🇱 NL 46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080#🇳🇱 NL 32
-vmess://ewogICAgImFkZCI6ICI1Ny4xMjguMTg5LjI0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi01Ny4xMjguMTg5LjI0MC01MzI5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?mode=gun&security=none&encryption=none&authority=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#@HiByeVPNNBot👈🌿💎
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.5:8880?mode=gun&security=none&encryption=none&type=grpc#🙋‍♀🤷‍♀🙍‍♀8
 vless://dbcc8bb3-466c-49de-96da-5c11882d848f@d.eans.top:7008?security=reality&encryption=none&pbk=FPH81X-EMwzv4nXgkplSqBAaK81uLuPYqWaYyIWFsnQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=efcbe824#🔥Join+Telegram:@Farah_VPN🟣
 vless://37e7881f-ff59-4858-83cd-c6b4b03cba4a@77.83.246.235:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=8B1aKLm3jBQ_yf3aUvdagWwxkXHrlRyrzdQVoq17yXI&sid=698295d180&spx=/bQl6HfpT0Ua2ko9#🇵🇱@SiNAVM کانال تلگرامی
-vless://99f47914-23d8-4367-81bc-b4b759eb7505@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan - RVP - JP - I - 🟣 t.me/Rayan_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#🇻🇳 VN 296
-vmess://eyJhZGQiOiI1MS4yNTUuMTczLjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY2MDg2MTVjLTAzZmUtNDcyYy05YWVlLTk3MzkxOTQ2MDk1YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJBbGwtLUBWMnJheUFscGhhLS0yOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=vmess
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959583053210036.rome-blkaft-aaak.info:8880?mode=gun&security=none&encryption=none&type=grpc#>>@v2rayngvpn::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967308972352607.mashhad-blkaft-aaau.info:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vmess://ewogICAgImFkZCI6ICI0Ny4yMzkuODEuMTEzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIxMGYxY2Y4Yi0wNjViLTQ5YmQtOWMyYy00NmU2NGVkMDhiM2QiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogMjg0MjEsCiAgICAicHMiOiAi8J+HrfCfh7BISy00Ny4yMzkuODEuMTEzLTU2NzciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#🇫🇮FI-38.244.136.233-5640
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTDdNUXlkSXNUYmxuM3hPcTRsVnZN@81.19.141.45:443#🇩🇪 DE 56
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?encryption=none&security=none&type=grpc#t.me/entryNET/config=1846628538805072
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?encryption=none&type=grpc&mode=gun&authority=/sinavm&security=none#🇩🇪@SiNAVM کانال تلگرامی
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6nwn4eqIERFIDUzIiwiYWRkIjoiNTcuMTI5LjI4LjY0IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0Ijoic2Vya2F0Lm9yZyIsImFscG4iOm51bGwsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2Vya2F0Lm9yZyIsImZwIjpudWxsfQ==
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.107.184.53:80#🇦🇺 AU 1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938180207059946.rome-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#>>@ShadowsocksM::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#t.me/entryNET/config=1846629163150243
 vless://1d4808c2-ef3b-4057-ec6b-92fcea20bdfe@www.speedtest.net:2083?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=codfa.yas-nowin.ir&fp=chrome&type=ws&sni=codfa.yas-nowin.ir#🇩🇪@Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpROVVmajlpNkhJcjVHWnVmVHRPTGtl@81.19.141.45:443#🇩🇪 DE 17
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?encryption=none&security=none&type=grpc#@Daily_Configs
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@64.49.14.41:8443?security=tls&type=ws&path=/X@节点狂魔/&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇸🇬 机场推荐:dafei.de 新加坡 17
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967511874842712.rasht-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyam1LbFVoTkRRM21VZjd1YU9MSlli@194.87.45.189:443#🇪🇸 ES 1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966654853739729.dublin-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967500853380191.mashhad-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🔥Join+Telegram:@Farah_VPN🟣
-vmess://eyJhZGQiOiIxNjcuMTE0LjE1NS4xOTMiLCJhaWQiOiIwIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMGFlODJkZS1iZDU0LTQ2ZGQtYmE2MC0zYzQwODFhYjRmY2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiPj5ARGFpbHlWMlJZOjpDQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoidGNwIiwidiI6IjIifQ
-vless://03a806fa-3d03-43db-9915-843d2570dc46@91.99.179.41:10138?type=grpc&encryption=none&serviceName=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255903364.oslo-prx-dnraacu.info:8880?security=&encryption=none&type=grpc#>>@configV2rayNG::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbDZPZ282aW9tU3NMeXp6Z0JjYlBB@81.19.141.45:443#🇩🇪 DE 43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#🇳🇱 NL 67
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOU1XTWVlSHVFUkZFU0RFQmNKQ01x@81.19.141.45:443#🇩🇪 DE 20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966574572431911.rome-blkaft-aaau.info:8880?mode=gun&security=none&encryption=none&type=grpc#>>@DailyV2RY::XX
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.99:80?mode=gun&security=none&encryption=none&type=grpc#🇺🇲TM 💕@AZARBAYJAB1 💕 GPRS
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.77:80?mode=gun&security=none&encryption=none&type=grpc#🇺🇲TM 💕@AZARBAYJAB1 💕 GPRS
-vless://17108cd5-ddcf-4b6e-bb43-36a711a01366@sourceforge.net:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config 4.4
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
-vmess://ewogICAgImFkZCI6ICI4LjIxOC44Ljg0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJjNzI3NTM5My00Njg3LTQ3MDktYWMwNy0xN2E1MTZhMWI0NTciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogMzA0ODksCiAgICAicHMiOiAi8J+HrfCfh7BISy04LjIxOC44Ljg0LTU2MzAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.3:8880?mode=gun&security=none&alpn=http/1.1&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&fp=chrome&type=grpc&sni=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)#🇬🇧TM (@AZARBAYJAB1) GPRS
-
-# ReSelected:  Tue Oct 21 23:29:19 2025    ||   Total: (521) Configs.
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938728943989934.esfahan-prx-dnraacl.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 204
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947291649717640.kerman-drc-tusabl.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 56
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951257223808.copenhagen-prx-dnraacu.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 110
-vmess://eyJhZGQiOiIxNDYuNTkuMTE4LjI0OSIsImFpZCI6IjAiLCJob3N0IjoiZmFwZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTc0Iiwic2N5IjoiYXV0byIsInNuaSI6ImZhcGVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@106.244.201.248:50000?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 410
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 26
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?type=grpc&path=/#🇬🇧 GB 27
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@45.77.25.6:27854?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 124
-vless://12345678-1234-1234-1234-123456789123@92.53.191.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🔥Join+Telegram:@Farah_VPN🟣
-vless://12345678-1234-1234-1234-123456789123@104.129.166.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🔥Join+Telegram:@Farah_VPN🟣
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928896969382988.madrid-drc-dcrabj.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 74
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@131.186.20.178:27194?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 325
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@18.162.156.23:12355?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#@meli_proxyy
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@123.111.169.70:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 233
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?security=none&type=grpc&path=/#🇫🇷 FR 53
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@59.19.192.51:10080?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 353
-vmess://ewogICAgImFkZCI6ICI0Ny44Ni44NS45NSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYTUwZTQyZjItZDU3OC00Y2I5LThkMzgtYTlhMzgyZWY1NTM0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDg5MzQsCiAgICAicHMiOiAi8J+HrfCfh7BISy00Ny44Ni44NS45NS01NzA1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959009857.dezful-drc-tusabq.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 155
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.96.121:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 141
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.242.171.138:37021?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozc1dZN0pmTlgyb0RHUVBtVHgxREZQ@194.87.45.189:443#>>@v2rayNG_Matsuri::XX
-vmess://eyJhZGQiOiI5MS45OS4xODUuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6Ij4+QFNoYWRvd3NvY2tzTTo6WFgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#🇱🇹LT-45.87.175.164-0229
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@144.24.73.232:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 48
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 17
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927413452765103.abadan-drc-tusabn.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 221
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 120
-vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ4Yjk4NmQ4LTdkYTItNDdhMi04NWRlLTIzMDZjOTI1OTk1MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJBbGwtLUBWMnJheUFscGhhLS0zNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@194.127.193.124:24467?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇸🇬 机场推荐:dafei.de 新加坡 161
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCY3FBSDk4VFp2QW9jR01Za1F6eWMx@77.83.246.74:443#>>@v2rayNG_Matsuri::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.87:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 225
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6nwn4eqIERFIDIzIiwiYWRkIjoic2Vya2F0Lm9yZyIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIxIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJzZXJrYXQub3JnIiwiYWxwbiI6bnVsbCwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJrYXQub3JnIiwiZnAiOm51bGx9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946366857370571.london-prx-dnraacq.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 58
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 17
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?encryption=none&type=grpc&path=/#🇬🇧 GB 6
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 137
-vmess://eyJhZGQiOiI1MS4zOC4xOTEuMTAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk2ZGI3ZTU3LTUzMTQtNDU2MC1iNzA4LTI0NDY2NzBkZmEyOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiI+PkBGcmVha0NvbmZpZzo6WFgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI2Mi4xNDYuMjM0LjI0MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Njk0ODVmOS1hOWQ3LTQxZGEtYTA5NS04ZWY5OGMyYjk0ZTQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoi8J+Nq1RlbGVncmFtOlJfdjJyYXlfY29uZmlnc/CfjasiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 193
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 191
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 82
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852259960.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.154:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 70
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819861250232.stockholm-prx-dnraacp.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 100
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638926788574913492.brussels-drc-tusabd.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 36
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@1.249.45.86:12112?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 104
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.232:8880?encryption=none&type=grpc&path=/#🇲🇾 MY 30
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.197.161.123:10041?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 87
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@112.165.52.204:50000?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 133
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?encryption=none&type=grpc&path=/#🇬🇧 GB 21
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@220.118.109.204:10042?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 352
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852258728.esfahan-blkaft-aaao.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 91
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@39.123.97.116:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 65
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHalV0elFJamh5WVN6aGROMlpNUmZ0@167.71.205.112:80#🇸🇬SG-167.71.205.112-0339
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950315458723899.kerman-prx-dnraacr.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 167
-vmess://eyJhZGQiOiIxNDEuOTQuMTU1LjIyNCIsImFpZCI6IjAiLCJob3N0IjoiZmFwZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTY1Iiwic2N5IjoiYXV0byIsInNuaSI6ImZhcGVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@59.30.5.169:50002?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 258
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931857059451035.rome-drc-tusabw.info:8880?security=none&encryption=none&type=grpc&path=/#🇲🇾 MY 12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#🇳🇱 NL 40
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@61.35.221.254:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#🇳🇱 NL 5
-vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?security=tls&sni=profit.fullmargintraders.com&fp=chrome&type=ws&path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&host=profit.fullmargintraders.com&encryption=none#@Rayan_Config 65
-vmess://eyJhZGQiOiIxNDguMTEzLjE1My4xMDkiLCJhaWQiOiIwIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTc4Iiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434434929.neyshabur-drc-tusacaf.info:8880?encryption=none&type=grpc&path=/#🇳🇱 NL 8
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@59.19.192.51:12326?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 332
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936664855921747.amsterdam-prx-dnraacl.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 199
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944900760751746.hamedan-prx-dnraacp.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 124
-vmess://eyJhZGQiOiAiOC4yMTAuMTIyLjEzOSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjM0YTRiZDYtMGQ1ZC00MjFiLWI2ZmYtNWFiNmE2YzNiYjgyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDM5MTk0LCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@138.2.122.197:39863?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 57
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#🇦🇷AR-38.54.45.129-0311
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@183.104.0.181:16923?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 297
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929381453.rasht-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.141:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 30
-vmess://ewogICAgImFkZCI6ICI0Ny4yNDMuMTcyLjE3NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDk5ZWUyYzUtMzBhNy00OTM5LThiM2MtNzgxYjA3NDg2ZDRjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDE3NTI3LAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQzLjE3Mi4xNzctNTYwMCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 185
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 19
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 108
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 60
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@183.106.76.116:12112?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 85
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.14:8880?security=none&encryption=none&type=grpc&path=/#🇲🇾 MY 6
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929320863717328.malayer-drc-tusabq.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 237
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDMuMzkuMjAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImNjMTNhYzRiLWQzOGYtNGViYi04YTJhLTczY2YzYWZmNTY1MCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiAzNjUxMiwKICAgICJwcyI6ICLwn4et8J+HsEhLLTQ3LjI0My4zOS4yMC01NTc5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#🇭🇺 机场推荐:dafei.de 匈牙利 01
-vmess://ewogICAgImFkZCI6ICIxNTQuNjQuMjQzLjE5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5YmMyM2NjZi00NzY5LTRlOWEtYjI3OC0yZGZhOGQ5ZWY0MjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMzg1MzMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xNTQuNjQuMjQzLjE5LTAyNTciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@111.118.118.177:10014?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 52
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@156.254.114.120:30011?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 51
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 42
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#🇦🇪AE-151.242.251.153-0228
-vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Nq1RlbGVncmFtOlJfdjJyYXlfY29uZmlnc/CfjasiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316597416.hamedan-drc-tusaas.info:8880?encryption=none&type=grpc&path=/#🇬🇧 GB 31
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.119:80?encryption=none&type=grpc&path=/#🇺🇸 US 20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947302860438160.zagreb-prx-dnraacq.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 55
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@183.100.113.37:21297?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 349
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958853652473098.brussels-blkaft-aaao.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 111
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@123.111.253.155:50000?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 138
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@49.246.69.204:10004?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 385
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@tawaguard.xyz:8080#🇳🇱 NL 6
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255903364.oslo-prx-dnraacu.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 114
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@1.254.152.56:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 318
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 24
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?encryption=none&type=grpc&path=/#🇲🇾 MY 13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#>>@ShadowsocksM::LV
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@203.251.70.240:50000?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 288
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 102
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@14.35.29.177:15903?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 340
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@141.147.183.49:29876?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 108
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@58.127.188.254:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 307
-vmess://eyJhZGQiOiIxNDguMTEzLjE1My4xMTIiLCJhaWQiOiIwIiwiaG9zdCI6InNlcmthdC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE3OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config 104
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@156.255.90.175:8443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 50
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 92
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.38:8880?encryption=none&fp=chrome&type=grpc&path=/#🇳🇱 NL 19
-vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNDEiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@140.238.10.44:23253?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 374
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@118.40.126.7:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 126
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.190.183:443?security=reality&encryption=none&sni=store.steampowered.com&fp=chrome&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&spx=/&type=tcp&path=/#🇩🇪 DE 10
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@124.61.52.107:26257?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 205
-vmess://eyJhZGQiOiAiNDcuMjQzLjM5LjE3MyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODk5M2VhOTEtZDQzNy00ODk5LWE2ZDktMWRjYzBhYTE3ODIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90ZWxlZ3JhbV9Ac3N3aWEiLCAicG9ydCI6IDIwNTIyLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@217.142.138.61:37914?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 134
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@58.143.198.82:18097?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 400
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@203.243.63.166:27249?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 55
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.242:8880?encryption=none&fp=chrome&type=grpc&path=/#🇲🇾 MY 11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWGpNUUllbTB1U2hHdlJ6T3BmeWli@89.185.84.185:443#🇬🇧 GB 37
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?encryption=none&type=grpc&path=/#🇲🇾 MY 31
-vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMwIiwiYWlkIjoiMCIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxMjUiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@134.185.108.93:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇸🇬 机场推荐:dafei.de 新加坡 96
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934937368137375.ahvaz-drc-tusaby.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 194
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@1.238.209.247:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 90
-vmess://ewogICAgImFkZCI6ICIxNDEuOTQuMTU1LjIyOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInBlbGFuZy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi0xNDEuOTQuMTU1LjIyOS0xMTMyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&path=/#🇫🇷 FR 4
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@49.246.69.204:11965?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 384
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸US-156.146.38.167-0197
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?encryption=none&type=grpc&path=/#🇱🇹 LT 1
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?encryption=none&security=none&type=grpc#@Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.143:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 18
-vmess://eyJhZGQiOiIxNDguMTEzLjE3Ni4xOTIiLCJhaWQiOiIwIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE4MSIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.107:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#🇱🇹LT-45.158.171.110-0269
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852270917.esfahan-blkaft-aaao.info:8880?type=grpc&path=/#🇫🇷 FR 178
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931077057619102.hamedan-drc-tusabu.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 202
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686407685.lahijan-drc-tusaas.info:8880?encryption=none&type=grpc&path=/#🇬🇧 GB 8
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@111.118.118.177:12399?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 404
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 43
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342838285.esfahan-drc-tusaas.info:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 34
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959583053210036.rome-blkaft-aaak.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 101
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@14.36.155.120:21286?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 356
-vmess://eyJhZGQiOiIzOC4xNDMuNjYuODEiLCJhaWQiOiIwIiwiaG9zdCI6InNlcmlidXMub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNjciLCJzY3kiOiJhdXRvIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://fe1888f8-2361-11f0-9970-45e1d80c4039@89.23.108.188:443?security=reality&encryption=none&pbk=nm1ZhMktJbHTcJv0gqV8l0s_c9BWfQe5d02qhpSkKWo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=7fd4#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.163.204.94:990#🇭🇺 HU 1
-vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDEiLCJhaWQiOiIwIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDEzOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@121.173.93.124:12185?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 358
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#limo
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.250:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 23
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@61.85.1.77:12394?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 361
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 242
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@222.113.18.206:10913?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 330
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#>>@free4allVPN::XX
-vmess://ewogICAgImFkZCI6ICI4LjIxMC4xMjIuMTM5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkMjU5NDZjNS1hMzJkLTQ4NzMtYWU1NS0xNWRlY2FmMTdiN2YiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogMzA0NjQsCiAgICAicHMiOiAi8J+HrfCfh7BISy04LjIxMC4xMjIuMTM5LTU1OTAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@106.252.245.199:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 232
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@45.77.25.6:48828?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 121
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862862598.oslo-prx-dnraacp.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 51
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638854250044096905.prague-drc-dcrabd.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 27
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@222.113.18.207:16030?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 12
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860213179.lisbon-prx-dnraacq.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 97
-vless://4a4c08c2-0e58-4781-8729-f6873a7b1996@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=black-orDeR.ONEeAt.CO&type=ws#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943188705973136.arak-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:59.44ms
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.81.226.31:80#@meli_proxyy
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@36.50.90.241:47790?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 18
-vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#🔥Join+Telegram:@Farah_VPN🟣
 vmess://ewogICAgImFkZCI6ICI0Ny44Ni44NS45NSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNzQ0NzViZjAtMDI2Ny00YTA0LWI0MzEtNTQ3NTJlMzE5OTRiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDE0MDQ0LAogICAgInBzIjogIvCfh63wn4ewSEstNDcuODYuODUuOTUtNTcwNCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?encryption=none&type=grpc&path=/#🇳🇱 NL 24
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 212
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.218:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
-vmess://eyJhZGQiOiAiY2YuZm92aS50ayIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJmb3hwb2wuZm92aS50ayIsICJpZCI6ICJiZjY3NDM3ZS02YzkwLTQ1Y2EtYWJjMi1jNzI0MGE1Y2UyYWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Vpc2FzcWEiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJmb3hwb2wuZm92aS50ayIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 172
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.76.218.163:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 30
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@220.72.245.245:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 73
-vless://6c7a6a6a-6a6a-4000-8000-000000000002@104.20.2.221:8443?security=tls&type=ws&path=/?ed=2560&host=bycf.lzjnb.shop&sni=bycf.lzjnb.shop&fp=chrome#🇩🇪 机场推荐:dafei.de 德国 03
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930447055038278.kish-drc-tusabt.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 57
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880/?type=grpc&encryption=none&flow=#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:74.09ms
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?security=tls&encryption=none&fp=random&type=ws&path=/57ba2ab1#🇺🇸 US 71
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#🇷🇴RO-185.126.237.38-0271
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#🇳🇱 NL 2
-vmess://eyJhZGQiOiI0MC4xNjAuMTYuMjE5IiwiYWlkIjoiMCIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNjIiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955304452703138.lahijan-prx-dnraact.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 96
-vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjEzIiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNTIiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI0MC4xNjAuMTYuMjE2IiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNjMiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://422af888-aaec-469e-8e4e-59a9429e7dd0@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=MElODIc-eDuCAtiOn.ONEeaT.co&type=ws#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 123
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950315458711931.kerman-prx-dnraacr.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 236
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381272914.rasht-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#>>@ShadowsocksM::XX
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@61.85.1.77:12374?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 366
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.82:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 80
-vless://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@104.24.238.232:2053?path=/&security=tls&encryption=none&host=v3.ganglink.sbs&type=ws&sni=v3.ganglink.sbs#🔥Join+Telegram:@Farah_VPN🟣
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@115.91.178.253:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 77
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.224:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 22
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960638051874642.london-blkaft-aaap.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 128
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 34
-vmess://eyJhZGQiOiI1Ny4xMjkuMi4xMjEiLCJhaWQiOiIwIiwiaG9zdCI6InBlbGFuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE1NyIsInNjeSI6ImF1dG8iLCJzbmkiOiJwZWxhbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.100.194.42:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 146
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?type=grpc&path=/#🇫🇷 FR 136
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 195
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933624655569356.dezful-drc-tusabx.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 16
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 47
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176606709418.dezful-drc-tusabt.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 214
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@45.76.198.248:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 142
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.18.222.208:2053?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 134
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇨🇳 机场推荐:dafei.de 台湾 38
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638954454858772863.belgrade-prx-dnraact.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 190
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?encryption=none&type=grpc&path=/#🇬🇧 GB 12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#🇳🇱NL-193.29.139.251-0365
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.243:8880?security=none&encryption=none&type=grpc&path=/#🇲🇾 MY 28
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947304063286542.arak-prx-dnraacq.info:8880?security=none&encryption=none&type=grpc&path=/#🇲🇾 MY 26
-vmess://eyJhZGQiOiAiNTEuMTYxLjEzMC4xMDEiLCAiYWlkIjogIjAiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImI1OTJjZjFhLWQ5MmYtNGRiZC05YzFkLWI3NjkzNmExNjA5ZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTUwIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJ0Y3AiLCAidiI6ICIyIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 112
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 78
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@175.211.35.161:50003?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 326
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950889657526992.tabriz-prx-dnraacr.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 145
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456106424.qazvin-drc-tusabw.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 174
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@161.118.150.254:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇸🇬 机场推荐:dafei.de 新加坡 137
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.48.77.114:12312?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 226
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?encryption=none&path=/#🇬🇧 GB 43
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 14
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 141
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.126:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 99
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@49.246.69.204:12221?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 378
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936058895936284.budapest-drc-tusabz.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 149
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@61.83.202.17:10042?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 27
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958853652470641.brussels-blkaft-aaao.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 188
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.34.176.119:81?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇸🇬 机场推荐:dafei.de 新加坡 68
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.174:8880?encryption=none&type=grpc&path=/#🇩🇪 DE 21
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880?encryption=none&type=grpc&path=/#🇳🇱 NL 31
-vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBlbGFuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBTaGFkb3dzb2Nrc006OlhYIiwic2N5IjoiYXV0byIsInNuaSI6InBlbGFuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.112:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 37
-vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjMiLCJhaWQiOiIwIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTU0Iiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934319458527217.zagreb-drc-tusaby.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 66
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 20
-vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjMiLCJhaWQiOiIwIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE0OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@216.250.97.62:7000?security=tls&type=ws&path=/Telegram🇨🇳@WangCai2/?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 46
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.40.123:443?encryption=none&security=reality&sni=store.steampowered.com&fp=chrome&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&type=tcp&headerType=none#@Daily_Configs
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@109.123.231.212:2053?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 145
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.98:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 223
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@171.22.254.129:990#🇲🇹 MT 1
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@59.19.192.51:10058?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 14
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@61.85.1.77:17001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 339
-vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIxMSIsImFpZCI6IjAiLCJob3N0IjoieWljaHVlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNjAiLCJzY3kiOiJhdXRvIiwic25pIjoieWljaHVlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960333054354984.mashhad-blkaft-aaak.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 151
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930733256111449.lisbon-drc-tusabu.info:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 54
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938332607497744.madrid-drc-tusacaf.info:8880?encryption=none&type=grpc&path=/#🇺🇸 US 64
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?encryption=none&fp=chrome&type=grpc&path=/#🇳🇱 NL 15
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@123.143.9.5:14041?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 76
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255889101.oslo-prx-dnraacu.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 13
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@59.19.192.51:18888?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 337
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.93:80?encryption=none&type=grpc&path=/#🇺🇸 US 25
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342843836.esfahan-drc-tusaas.info:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 49
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@121.131.242.29:12219?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 373
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.229.77.184:27443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 142
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@221.163.173.252:50004?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 130
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 240
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 210
-vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none#@Rayan_Config 31
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 14
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@46.8.226.39:2053?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 65
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@8.222.220.81:25435?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇸🇬 机场推荐:dafei.de 新加坡 132
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207613731.kish-drc-dcrabj.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 131
-vless://12345678-1234-1234-1234-123456789123@103.116.7.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🔥Join+Telegram:@Farah_VPN🟣
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808576837.abadan-drc-tusacaf.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 234
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@115.93.169.180:50000?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 09
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@131.186.17.132:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 321
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@27.117.52.110:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 272
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937994136550920.prague-prx-dnraacl.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 175
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060334925.warsaw-prx-dnraacp.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 62
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@218.146.200.8:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 236
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686409891.lahijan-drc-tusaas.info:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 33
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808587337.abadan-drc-tusacaf.info:8880?encryption=none&type=grpc&path=/#🇩🇪 DE 20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?type=grpc&path=/#🇺🇸 US 49
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dnraacr.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 68
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@193.246.161.65:54310?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 135
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933151854967352.copenhagen-drc-tusabx.info:8880?security=none&encryption=none&type=grpc&path=/#🇳🇱 NL 22
-vless://310f218f-150a-4813-9a6d-e60245e7646d@84.247.149.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Xy7JFC_lOgqFQ0EMc8tAgll1uPYVswdHJAiYB9nwgjg&sid=d490a0c05121c115&type=grpc&serviceName=2bc2d2fb643af0374b27c5ec#>>@DailyV2RY::SG
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@59.25.160.141:50008?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 98
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862861158.oslo-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
-vmess://eyJhZGQiOiI0NS4xMy4yMjYuMTE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImIxMDUzYTY3LTg4YjktNDU1MC1iNWZiLTgyNjczNWFkYzA0NSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI0NDkiLCJwcyI6ImxpbW8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@150.109.236.191:25565?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 270
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@129.154.194.191:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 393
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.241:8880?encryption=none&fp=chrome&type=grpc&path=/#🇲🇾 MY 15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#>>@ShadowsocksM::XX
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@134.185.110.241:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇸🇬 机场推荐:dafei.de 新加坡 91
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655065548930.bandar-prx-dnraacq.info:8880?encryption=none&type=grpc&path=/#🇳🇱 NL 34
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?security=tls&encryption=none&sni=pqh30v1.hiddendom.shop&alpn=h2&type=grpc&path=/#🇺🇸 US 47
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?encryption=none&type=grpc&path=/#🇪🇸 ES 2
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.122.221:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 9
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@147.45.49.11:8443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 136
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.68:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 171
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=none&encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 50
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?encryption=none&type=grpc&path=/#🇲🇾 MY 9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?encryption=none&fp=chrome&type=grpc&path=/#🇳🇱 NL 39
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.228.5.119:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 279
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@36.50.90.241:35951?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 22
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@124.61.52.107:10250?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 269
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521662014894.budapest-prx-dnraacr.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 98
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh63wn4ewIEhLIDUiLCJhZGQiOiI0Ny43Ni4xMzYuMTc4IiwicG9ydCI6Mjg2NTMsImlkIjoiODM2YmYwZWEtZDZkYi00ZDJlLWM0YjEtNGFiMjhiNmZkZWU2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?encryption=none&fp=chrome&type=grpc&path=/#🇳🇱 NL 11
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@27.100.229.147:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 320
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946366858945512.rome-prx-dnraacq.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 90
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 130
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 166
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?encryption=none&fp=chrome&type=grpc&path=/#🇳🇱 NL 33
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947302860429857.zagreb-prx-dnraacq.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 180
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 107
-vmess://ewogICAgImFkZCI6ICI5MS4xMzQuOC45MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInBlbGFuZy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi05MS4xMzQuOC45My0xMTQ4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@49.174.170.115:22577?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 62
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 15
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@154.16.10.177:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 47
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇺🇲TM-@AZARBAYJAB1
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@111.91.159.49:30048?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 387
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.219.237.163:990#🇭🇺 HU 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#🇳🇱 NL 4
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.99:8880?security=none&encryption=none&type=grpc&path=/#🇪🇸 ES 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#🇳🇱 NL 3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959107852436200.qazvin-blkaft-aaaj.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 46
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938179859468758.zagreb-prx-dnraacl.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 189
-vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE2IiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNTAiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://ewogICAgImFkZCI6ICI0Ny44Ni44NS45NSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOWJlYWFmY2QtYmRjMS00MjBlLTk4NGEtYjgzNDMzN2JjYjE2IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3RlbGVncmFtX0Bzc3dpYSIsCiAgICAicG9ydCI6IDIwNTIyLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuODYuODUuOTUtNTczNCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://eyJhZGQiOiIxNDYuNTkuNzAuMTQ2IiwiYWlkIjoiMCIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE3NiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@222.114.57.191:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 342
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.220:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 197
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 230
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 52
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359329765.birjand-drc-tusaas.info:8880?type=grpc&path=/#🇬🇧 GB 26
-vmess://eyJhZGQiOiIxNDYuNTkuMTE4LjI1MCIsImFpZCI6IjAiLCJob3N0IjoibGFtbWFsYW5kLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTcyIiwic2N5IjoiYXV0byIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?encryption=none&type=grpc&path=/#🇹🇷 TR 1
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@218.151.91.131:12151?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 160
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.14.244.44:8880?security=none&encryption=none&type=grpc&path=/#🇳🇱 NL 20
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@115.40.244.240:18888?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 97
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?encryption=none&type=grpc&path=/#🇳🇱 NL 23
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@156.255.90.175:2053?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 48
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407102788.copenhagen-drc-tusacaf.info:8880?security=none&encryption=none&type=grpc&path=/#🇺🇸 US 39
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@61.85.1.77:12088?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 347
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@47.79.16.131:2053?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇨🇳 机场推荐:dafei.de 台湾 37
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.4:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656129533.malayer-drc-tusabu.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 121
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@49.246.69.204:11602?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 388
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@43.132.244.52:21415?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 39
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@119.201.195.135:10001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 139
-vmess://ewogICAgImFkZCI6ICI0Ny4yMzkuODEuMTEzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIxMGYxY2Y4Yi0wNjViLTQ5YmQtOWMyYy00NmU2NGVkMDhiM2QiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogMjg0MjEsCiAgICAicHMiOiAi8J+HrfCfh7BISy00Ny4yMzkuODEuMTEzLTU3MDciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938180050754915.birjand-drc-tusabl.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 122
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?encryption=none&fp=chrome&type=grpc&path=/#🇳🇱 NL 42
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.245:8880?encryption=none&fp=chrome&type=grpc&path=/#🇲🇾 MY 5
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@183.106.76.116:10007?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 396
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@122.47.74.139:50001?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 49
-vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?type=tcp&path=/#🇮🇳 IN 3
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@146.56.99.255:56789?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 机场推荐:dafei.de 韩国 72
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encryption=none&headerType=none&type=tcp#🇮🇳𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 201
@@ -762,52 +226,30 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@198.13.42.58:32954?security=tls&typ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943444955043938.birjand-drc-tusacaf.info:8880?security=none&encryption=none&type=grpc&path=/#🇺🇸 US 60
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#@AblNet7 🇮🇷 نت ملی 🇦🇪
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6nwn4eqIERFIDciLCJhZGQiOiI1Ny4xMjkuMjQuMTMxIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0Ijoia2FtcG9uZy5vcmciLCJhbHBuIjpudWxsLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImthbXBvbmcub3JnIiwiZnAiOm51bGx9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyam1LbFVoTkRRM21VZjd1YU9MSlli@194.87.45.189:443#Channel id: @ShadowProxy66
 vmess://eyJhZGQiOiIxNS4yMDQuNjQuMjExIiwiYWlkIjoiMSIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyNUTSAoQEFaQVJCQVlKQUIxKVRNIChAQVpBUkJBWUpBQjEpVE0gKEBBWkFSQkFZSkFCMSkiLCJwb3J0IjoiNDQzIiwicHMiOiJUTSAoQEFaQVJCQVlKQUIxKfCfh6nwn4eqIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMnVEdGVuVHZSVTlDbkQ5THd2Y2Ny@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh63wn4ewIEhLIDIiLCJhZGQiOiI4LjIxMC41Mi4yMTEiLCJwb3J0IjoyMDUyMiwiaWQiOiIzNzgyNzAzNi0xZmM1LTQxZWEtOWZjNS0xMTFhZjFkYjQ5ZGMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvdGVsZWdyYW1fQHNzd2lhIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462896164.neyshabur-prx-dnraacr.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#🍫Telegram:R_v2ray_configs🍫
-vmess://eyJhZGQiOiAiNDcuODMuMTc0LjEzMSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTJjMjRmZWQtMTA3OS00MWQ2LWFiNTEtNGU4YWIzY2MxMjY3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDI5NDkzLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930133854419945.bandar-drc-tusabt.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 103
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.94:80?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn⁶🎀
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521662009295.budapest-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:75.14ms
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDMuMTcyLjE3NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTM0ZjY3MDQtZTQ2Ny00MGRhLTljNzctMTliNTAwN2JhNTk0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDM1NjQyLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQzLjE3Mi4xNzctNTU1MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931428657467505.kish-drc-tusabu.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 58
-vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImYua2hpbGVpLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn42rVGVsZWdyYW06Ul92MnJheV9jb25maWdz8J+NqyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938180207059946.rome-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.90.226.121:80#@AblNet7 🇮🇷 نت ملی 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTbXpqU0NBUUdkTjdYcTk0RXNaNUNB@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6nwn4eqIERFIDIiLCJhZGQiOiI1Ny4xMjkuMjQuMTMyIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0Ijoic2Vya2F0Lm9yZyIsImFscG4iOm51bGwsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2Vya2F0Lm9yZyIsImZwIjpudWxsfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#@AblNet7 🇮🇷 نت ملی 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@62.100.205.177:990#@AblNet7 🇮🇷 نت ملی 🇬🇧
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6vwn4e3IEZSIDYiLCJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJwb3J0IjoyMDgyLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiZ29vZ2xlLmNvbSIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#🇱🇹 机场推荐:dafei.de 立陶宛 13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDQ1Ljg3LjE3NS4xNzQ6ODA4MA==#🇩🇪_DE_德国
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?encryption=none&type=grpc&path=/#🇳🇱 NL 32
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#🇱🇹 机场推荐:dafei.de 立陶宛 02
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?encryption=none&type=grpc&path=/#🇳🇱 NL 26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.37.255.38:990#🏓🏓🏓6
-vmess://ewogICAgImFkZCI6ICIyMDkuMTI2Ljg0LjE4OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjIwOS4xMjYuODQuMTg5IiwKICAgICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3N3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTIwOS4xMjYuODQuMTg5LTA2NjgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 15
 vmess://ewogICAgImFkZCI6ICJwdXRpaGIub3JnIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAicHV0aWhiLm9yZyIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAibGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ep8J+HqkRFLTU3LjEyOS4yOC42Ni0xMTc4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 96
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@197.140.29.76:990#Channel id: @ShadowProxy66 🇩🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#>>@free4allVPN::PY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#🇵🇱PL-92.118.205.228-0378
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#@AblNet7 🇮🇷 نت ملی 🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.33.47:990#@AblNet7 🇮🇷 نت ملی 🇹🇭
 vless://0417be58-2ea8-49de-8083-9eff9b0137e5@209.126.84.189:443?security=tls&encryption=none&sni=v2ray.codefyinc.com&fp=chrome&type=ws&host=v2ray.codefyinc.com&path=/vlessws#🇺🇸 US 15
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934442807081605.stockholm-drc-tusacae.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 46
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@66.23.207.82:990#@AblNet7 🇮🇷 نت ملی 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#@AblNet7 🇮🇷 نت ملی 🇵🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.82.252.109:990#@AblNet7 🇮🇷 نت ملی 🇭🇰
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?type=grpc&path=/#🇱🇹 LT 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPakFCeFU4SFJhcVphYjRlVk95UFhs@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?encryption=none&type=grpc&path=/#🇳🇱 NL 24
-ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#🇯🇵 JP | 🔒 SS | @outlinereleasedkey [17]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@203.23.128.92:990#@AblNet7 🇮🇷 نت ملی 🇭🇰
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.95:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucnNadmxVT0xjeWYyaVFYV3dpbldu@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
@@ -816,109 +258,69 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYkg5eWFMY2RrWWVYRHFGa3pqRk92@77.83.246.74:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@167.160.90.178:990#@AblNet7 🇮🇷 نت ملی 🇺🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441818.neyshabur-drc-tusacaf.info:8880?encryption=none&type=grpc&path=/#🇳🇱 NL 38
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051243448.kish-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
-vmess://ewogICAgImFkZCI6ICI1Ny4xMjguMTg5LjI0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi01Ny4xMjguMTg5LjI0MC01MzY5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYldZZG9ibzRjdkRUS1ZKWWt2aUk1@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#🇮🇳IN-134.209.147.198-5408
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Secaucus🅿️ping:100.53ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@62.100.205.100:990#@AblNet7 🇮🇷 نت ملی 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cU01bGZHMkpwbXpwOEdkUjJtTVdD@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxazBMaXBhZFl1eHo1WGVqZFdhcElt@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2ICIsInNjeSI6ImF1dG8iLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLd1FaWDV6aVlISTBRSGthbkVqOWlH@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?encryption=none&security=none&fp=chrome&type=grpc#@Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#🇺🇸US-64.74.163.130-0241
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.97:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#limo
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.31.230:990#@AblNet7 🇮🇷 نت ملی 🇻🇳
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?type=grpc&path=/#🇬🇧 GB 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySW5rMGdqaUZBZk42alFNbjJKQjZ2@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDEzIiwiYWRkIjoic3Nzc3Nzc3Nzc3NzZmZmZmZmZmdoLjIwMzIucHAudWEiLCJwb3J0Ijo0NDMsImlkIjoiNDE3NGI5NWQtMTE1ZS00ZDM5LWFkZDYtMWY4ZGI5NWJiODYwIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0Ijoic3Nzc3Nzc3Nzc3NzZmZmZmZmZmdoLjIwMzIucHAudWEiLCJhbHBuIjpudWxsLCJwYXRoIjoiLzZXZTNVOURmMVdHeGdGbm9GUHcxIiwidGxzIjoidGxzIiwic25pIjoiIiwiZnAiOm51bGx9
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.85.225.236:80#@AblNet7 🇮🇷 نت ملی 🇺🇸
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?encryption=none&type=tcp&headerType=http&host=divarcdn.com&path=/#🇹🇷 TR 1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129823158.dezful-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::GB
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880/?type=grpc&encryption=none&flow=#🫆66@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#@AblNet7 🇮🇷 نت ملی 🇪🇨
-vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@188.225.81.91:443?security=reality&type=tcp&sni=wa.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&sid=16895459a2c7768d&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8#🇷🇺 机场推荐:dafei.de 俄罗斯 01
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940926058844815.stockholm-prx-dnraacm.info:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 87
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?encryption=none&fp=chrome&type=grpc&path=/#🇱🇹 LT 22
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag5py65Zy65o6o6I2QOmRhZmVpLmRlIOmmmea4ryAyMSIsImFkZCI6IjQ3LjI0My4yMzEuMTQiLCJwb3J0IjoiMzQ0MDQiLCJpZCI6IjgwZDUwNDgxLWEwNzAtNDFmYS1iN2MxLTgyYjQ5ZjA1M2M3YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.237.185.89:990#@AblNet7 🇮🇷 نت ملی 🇱🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3THBWbnlyRG5nRGpKNExPb3dmYlll@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#@AblNet7 🇮🇷 نت ملی 🇲🇩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#🇺🇸US-104.192.226.106-0250
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#@AblNet7 🇮🇷 نت ملی 🇮🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJRDFnMG5RZmxtVlFQWnFta0V0RkNl@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008244100.vienna-drc-tusacaf.info:8880?encryption=none&type=grpc&path=/#🇩🇪 DE 25
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74g5py65Zy65o6o6I2QOmRhZmVpLmRlIOmprOadpSAwNiIsImFkZCI6IjQ3LjI1MC40NS4yMzQiLCJwb3J0IjoiNDMwNjMiLCJpZCI6ImM3N2Y0OGY1LTRiZTMtNDQ2MS1iNTJiLTQ5OTk4ZTdiODk3YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9hcmtpIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR 57
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBlbGFuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBTaGFkb3dzb2Nrc006OlhYIiwic2N5IjoiYXV0byIsInNuaSI6InBlbGFuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?encryption=none&type=grpc&path=/#🇳🇱 NL 28
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.59.107:990#@AblNet7 🇮🇷 نت ملی 🇪🇬
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=none&encryption=none&type=grpc#>>@v2rayngvpn::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?encryption=none&type=grpc&path=/#🇱🇹 LT 17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCbWNiN2pXS3Z1WXBXa2FKbEZhdWx0@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.146.153:990#@AblNet7 🇮🇷 نت ملی 🇧🇭
 vmess://eyJhZGQiOiIyMDUuMTg1LjExNi4yMCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJmZjEzMDIxMC00NjM2LTVjYWYtODI1OS0wOTA1OGM1NWJhZTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAbmV0ZnJlZWRvbTAgWzIwXSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#🇳🇱 NL 7
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#🇩🇪[Telegram:NetifyVpn]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#@vmesskhodam
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.228:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 37
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116437663.tabriz-drc-tusacaf.info:8880?encryption=none&type=grpc&path=/#🇪🇸 ES 10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#🇺🇦 UA 1
-vmess://eyJhZGQiOiAiMzguNjAuMTk1LjI1NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMmQ5NzgzNDEtYTM5MS00YjU0LTg2MjMtMTIyODRkYzI0NTI1IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxMDM3IiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibWwwNjA1LnlzZHMxNjguc2hvcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462896620.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#🇫🇮 FI 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#| United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#>>@ShadowsocksM::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?type=grpc&path=/#🇹🇷 TR 8
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936058871921651.copenhagen-drc-tusabz.info:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 81
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#🇳🇱 NL 38
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946366858946754.rome-prx-dnraacq.info:8880?mode=gun&security=&encryption=none&type=grpc#>>@configV2rayNG::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686413412.lahijan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#Ws
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017445584.kerman-drc-tusacaf.info:8880?security=none&encryption=none&type=grpc&path=/#🇱🇹 LT 5
 vless://12345678-1234-1234-1234-123456789123@193.9.49.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de#🇺🇸 机场推荐:dafei.de 美国 69
 vless://12345678-1234-1234-1234-123456789123@192.200.160.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de#🇺🇸 机场推荐:dafei.de 美国 14
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?type=grpc&path=/#🇩🇪 DE 9
-vless://12345678-1234-1234-1234-123456789123@204.93.210.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de&fp=chrome#🇺🇸 机场推荐:dafei.de 美国 70
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638951859202353992.amsterdam-prx-dnraacs.info:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://12345678-1234-1234-1234-123456789123@104.238.71.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de#🇺🇸 机场推荐:dafei.de 美国 51
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#🇮🇱 机场推荐:dafei.de 以色列 01
 vless://12345678-1234-1234-1234-123456789123@156.243.246.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de#🇺🇸 机场推荐:dafei.de 美国 27
 vless://12345678-1234-1234-1234-123456789123@195.13.44.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de#🇺🇸 机场推荐:dafei.de 美国 34
 vless://12345678-1234-1234-1234-123456789123@198.177.57.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de#🇺🇸 机场推荐:dafei.de 美国 09
-vless://12345678-1234-1234-1234-123456789123@140.99.233.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de#🇺🇸 机场推荐:dafei.de 美国 60
 vless://12345678-1234-1234-1234-123456789123@88.216.69.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de#🇺🇸 机场推荐:dafei.de 美国 61
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407097324.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @vpnbaz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#MCI-@IRAN_V2RAY1
 vless://12345678-1234-1234-1234-123456789123@209.94.90.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de#🇺🇸 机场推荐:dafei.de 美国 23
-vless://12345678-1234-1234-1234-123456789123@164.38.155.61:2096?security=tls&type=ws&path=/snippets&host=vless.hubp.de&sni=vless.hubp.de#🇺🇸 机场推荐:dafei.de 美国 53
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441863516.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.140:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 146
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.29:8880?security=none&encryption=none&type=grpc&path=/#🇱🇹 LT 3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.101:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 54
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116427871.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434440595.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316594418.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🔥Join+Telegram:@Farah_VPN🟣
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108687.dublin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMTk0IiwiYWlkIjoiMCIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE5NyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880?mode=gun&security=none&encryption=none&authority=?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&type=grpc#@HiByeVPNN👈⚡❤️‍🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930966405437992.birjand-drc-dcrabj.info:8880?encryption=none&type=grpc&path=/#🇱🇹 LT 15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#🇳🇱 NL 10
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968104882.dublin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.250:8880?security=none&encryption=none&type=grpc&path=/#🇺🇸 US 28
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359338436.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?security=none&encryption=none&type=grpc&path=/#🇱🇹 LT 20
 vmess://ewogICAgImFkZCI6ICI1Ny4xMjguMTg5LjI1MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImthcGVsbGVuZy5jb20iLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6vwn4e3RlItNTcuMTI4LjE4OS4yNTMtMTA0MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGFtbWFsYW5kLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ij4+QFNoYWRvd3NvY2tzTTo6WFgiLCJzY3kiOiJhdXRvIiwic25pIjoibGFtbWFsYW5kLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.165:8880?encryption=none&type=grpc&path=/#🇫🇷 FR 31
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#>>@DailyV2RY::XX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB 10
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.161:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR 75
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#@IRAN_V2RAY1
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74g5py65Zy65o6o6I2QOmRhZmVpLmRlIOmprOadpSAwMiIsImFkZCI6IjQ3LjI1MC40NS4yMzQiLCJwb3J0IjoiODYxMyIsImlkIjoiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJmcCI6ImNocm9tZSIsInBhdGgiOiIvYXJraT9lZD0yMDQ4In0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116436718.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🔥Join+Telegram:@Farah_VPN🟣
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.137:8880?security=none&encryption=none&type=grpc&path=/#🇺🇸 US 32
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@V2rayNGVPN <= کانفیگ رایگان
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇨🇵@Free_VPN02
 
