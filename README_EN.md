@@ -150,3 +150,8 @@ https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vmess.txt
 ## Contact
 🙋‍♀️ If you have any questions or concerns, please feel free to reach out to us via our discussions tracker.
 
+## Donations
+* USDT-TRC20 or TRX:
+```
+TEA6H5EgqVsUXF1A157pFhVgpgtcLp2BMa
+```
