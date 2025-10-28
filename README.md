@@ -191,6 +191,11 @@ https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vmess.txt
 ## تماس با ما
 🙋‍♀️ اگر سوال یا نیاز به راهنمایی دارید، لطفاً از طریق issue تماس بگیرید.
 
+## Donations
+* USDT-TRC20 or TRX:
+```
+TEA6H5EgqVsUXF1A157pFhVgpgtcLp2BMa
+```
 <details> 
 <style> 
 html {direction: rtl;} 
