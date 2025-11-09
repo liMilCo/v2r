@@ -1,0 +1,6 @@
+#profile-title: base64:8J+OgSBGcmVlIFByb3h5IHwgU3ViIDIwIPCfjI4=
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/liMilCo/v2r
+#profile-web-page-url: https://limilco.github.io/v2r/
+vless://3245e51e-7fd9-4a85-8549-49c3a3c5f90b@G0dv2ray.fast.hosting-ip.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#🇩🇪 @G0dv2ray
