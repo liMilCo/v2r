@@ -1,258 +1,40 @@
-# Updated:    Sun Dec  7 01:23:14 2025    ||    Added: (198) Configs     ||    From: [https://raw.githubusercontent.com/liMilCo/v2r/main/new_configs.txt]
-vless://a91e64f0-9295-499d-bf4a-661ad99d4938@2-germany.geodema.network:8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=5540e44a53c3d01c#🔥Farah_VPN🟣
+# ReSelected:  Mon Dec  8 22:36:36 2025    ||   Total: (38) Configs.
 vmess://eyJhZGQiOiAiNDcuMjQzLjUxLjIzNyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZWY5M2Y0MTMtOTAzOS00ZGRiLWFlZmItMjQ5MDI4N2RmNTVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpIiwgInBvcnQiOiA1MjgwMSwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
-vless://e3d82f9e-4012-49a5-b74a-72b8921c8acf@axe.soyet2j.ir:443?encryption=none&security=tls&sni=menu.gejeh683bm.ir&alpn=h2&fp=chrome&type=ws&host=menu.gejeh683bm.ir&path=/77d76f3d-5da8-4198-b5d2-9634d3059ad0#🍫Telegram:v2ray_configs_v2c🍫
-vless://6932aea6-ddb8-724b-92b6-cd16b24d72ae@57.181.148.76:10005?encryption=none&security=tls&sni=s3.sni2010.netlib.re&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=s3.sni2010.netlib.re&path=/proxyip=tw.sni2025.netlib.re#[🇯🇵]t.me/ConfigsHub
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@172.236.109.230:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#🔥Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🇳🇱 NL 82
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool 📡 🇷🇺RU 🧭 3.8MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#🇲🇦MA-188.214.157.58-0445
 vmess://ewogICAgImFkZCI6ICI5MS4xMzQuOC4xMDEiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6vwn4e3RlItOTEuMTM0LjguMTAxLTcyODIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vless://a03e540d-7fa2-4187-b0d0-5202a22cf9a0@141.227.136.51:25687?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#>>@mehrosaboran::BE
 vless://5ea08836-6be8-4181-ab82-0e26282aa0aa@clyde.ns.cloudflare.com:443?path=/haofzzws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639004042094863199.legacy-amsit.info#Channel : @SHOP_GAMING1011 🏴🏳`
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REM0OVx1RDgzQ1x1REQ5NCBAdjJyYXlfY29uZmlnc19wb29sIFx1RDgzRFx1RENFMSBcdUQ4M0NcdURERURcdUQ4M0NcdURERjBISyBcdUQ4M0VcdURERUQgMS42TUIvcyIsDQogICJhZGQiOiAiNDcuMjQzLjUxLjIzNyIsDQogICJwb3J0IjogIjI3MTY1IiwNCiAgImlkIjogImJlNWY2NWRmLWUxMDQtNGUyYS05MzkxLWQxMDQ1NGRhN2RmMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2Fya2kiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#🇪🇪 EE 1
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&sni=kuame.missionsec.us#未知155
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSR3k1dGxtOGJBUWRNNXpjOVhGRjBZ@89.185.84.185:443#🇬🇧 GB 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA==@45.89.55.173:443#🇷🇸 RS 1
-vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiPj5Ab25lY2xpY2t2cG5rZXlzOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=redlabell.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=redlabell.info&path=/aafeuws#👉🆔 @v2ray_configs_pool 📡 🇳🇱NL 🧭 8.0MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#🇳🇱 NL 18
-vless://71a712db-3843-4d24-b4c4-724ee0813044@V2ngnet.heloisfood.ir:4488?mode=gun&security=&encryption=none&type=grpc&serviceName=@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet#未知 VLESS-12 | free-nodes
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh27v1.carwashipdir.shop#🇺🇸@FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2UzREZFdlZUtNZ2RVSlk3TEJZM2d5@81.19.141.45:443#>>@v2rayNG_Matsuri::XX
-vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?security=reality&encryption=none&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d6cd#@Daily_Configs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni45NyIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwidGxzIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#🇳🇱 NL 83
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#🇭🇰 HK 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkRG5XWXNHN2tCTTZWWGN1c1UyTG5R@81.19.141.45:443#🇩🇪 DE 20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWjdpYkJ5cFdZSHNsWDloemV0ZU12@81.19.141.45:443#🇩🇪 DE 12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#🇮🇳IN-103.111.114.29-0372
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg==@37.221.125.38:443#>>@DailyV2RY::DE
-vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443/?type=grpc&encryption=none&flow=#🔵3@oneclickvpnkeys
 vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=1&host=picassoo.info&type=ws&allowInsecure=1&sni=picassoo.info#@Filter_breaker
 vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMTYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5S1MTNAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.236.32:4054?security=tls&sni=www.nintendogames.net#未知 TROJAN-1170 | free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#🇹🇷 TR 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺 RU 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#🇷🇴 RO 1
-vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&type=ws&path=/#@Daily_Configs
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.73.5:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=yP1V_oAX1Sehc_102nMHuQgTOYk7T9KbJQmTlK4maVE&sid=d88b8adda0f82083&type=tcp&headerType=none#@Daily_Configs
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.57.238:4054?security=tls&sni=www.nintendogames.net#未知 TROJAN-179 | free-nodes
-vless://60510065-6006-44df-a6e0-6c75968d739c@us-003.shopping-1688.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/detailsws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=us-003.shopping-1688.com#🇺🇸[Telegram:NetifyVPN]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bzdFYnRxSXdnWlhYSG1NdjVMYkxjT3hwdHlQbE5raA==@178.23.190.238:443#>>@DailyV2RY::XX
-vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?encryption=none&security=reality&pqv=&type=tcp&sni=mensura.cdn-apple.com&fp=chrome&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#JP VLESS-131 | free-nodes
-vmess://ewogICAgImFkZCI6ICI1Ny4xMjguMTg5LjI0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi01Ny4xMjguMTg5LjI0MC03MjYxIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqenpUZFQ3Qm1XWlBVUm9JV09jVFpa@78.129.140.11:443#@v2FreeHub 🇬🇧
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?sni=www.nintendogames.net#🇺🇸 机场推荐:dafei.de 美国 04
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#🇰🇿KZ-45.159.250.190-0419
 vless://d350b8d9-e7cb-4e81-a189-73b15ee487a3@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456253078972.defender-amsis.info&type=ws&host=639003456253078972.defender-amsis.info&path=/oypliwws#未知 VLESS-16 | free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@102.207.216.176:990#🇩🇿DZ-102.207.216.176-7406
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@84.8.145.58:443?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=/proxyip=sjc.o00o.ooo#GB VLESS-08 | free-nodes
-vless://Chanel---V2RAYNGCLOUD---@legendary.zooboming.com:443?encryption=none&security=reality&sni=docker.com&fp=chrome&pbk=vo3IPWJCrDQ3fnrQ8zzh40xRM2vy-9w30UuiHLjZbn4&type=grpc&authority=&serviceName=-@v2rayNGcloud--@v2rayNGcloud--@v2rayNGcloud--@v2rayNGcloud--@v2rayNGcloud--&mode=gun#👉🆔 @v2ray_configs_pool 📡 🇸🇪SE 🧭 5.6MB/s
 vmess://eyJhZGQiOiAiMTQ4LjExMy4xNTMuMTA5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInlpY2h1ZW5nLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogInlpY2h1ZW5nLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?encryption=none&security=none&type=ws&host=cdn.ir&path=/news#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
-vless://86104262-50ee-43ab-938a-67df2c1ae87f@axe.soyet2j.ir:443?encryption=none&security=tls&sni=menu.gejeh683bm.ir&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=menu.gejeh683bm.ir&path=/77d76f3d-5da8-4198-b5d2-9634d3059ad0#👉🆔 @v2ray_configs_pool 📡 🇫🇮FI 🧭 5.1MB/s
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=1&host=azizoarjmand.info&type=ws&allowInsecure=1&sni=azizoarjmand.info#@Filter_breaker
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#🇧🇷 BR 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#🇵🇹 PT 1
-vless://1e8da77c-91d7-4046-80a3-ca6cd525d875@62.60.248.14:46395?encryption=none&type=grpc&mode=gun&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=reality&fp=chrome&sni=www.latimes.com&pbk=R7rQRf2vm_y2RYIFDZcS5ucks0gNKgKthRT-bUtyymo&sid=96973faa2f0bf0&spx=/#V2rayArgo
-vless://b5802512-e06d-4784-bdf2-8c9a411dee74@m23a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#未知 VLESS-30 | free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#🇳🇱 NL 48
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid0xLem5uNWx4T0p4WlBMcml6OXl1@81.19.141.45:443#🇩🇪 DE 10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#🇵🇷 PR 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkR1p5d1lxUGRWRTU0UFQxM1dOVVZ6@81.19.141.45:443#>>@v2rayNG_Matsuri::XX
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REM0OVx1RDgzQ1x1REQ5NCBAdjJyYXlfY29uZmlnc19wb29sIFx1RDgzRFx1RENFMSBcdUQ4M0NcdURERURcdUQ4M0NcdURERjBISyBcdUQ4M0VcdURERUQgMi4xTUIvcyIsDQogICJhZGQiOiAiOC4yMTguMTE2LjI2IiwNCiAgInBvcnQiOiAiMzIyMjgiLA0KICAiaWQiOiAiZTQ3NjdlOWYtZWQwMC00ZjMxLWE5ODQtYTkxOGJkZDliMDljIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCINCn0=
-vless://00cf509a-82df-4028-931d-9570e3c04132@m46a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#>>@DailyV2RY::DE
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI0Ny4yNTAuNDUuMjM0IiwgInBvcnQiOiAiODYxMyIsICJpZCI6ICI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🇺🇸 US 15
-vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=/vless/&security=tls&encryption=none&fp=chrome&type=ws&sni=pq.chile1.09vpn.com#🔥Farah_VPN🟣
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.113.207:443/?type=grpc&encryption=none&flow=#🔵24@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRWNMQ3JsN3lxODB5RGVRSlB6c1Zl@81.19.141.45:443#🇩🇪 DE 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYzZHYkVNMkgwY3FKZEhsNGhPckMx@81.19.141.45:443#🔥Farah_VPN🟣
-vless://54bedd3b-15f1-43f3-aac1-8c2e2500dc7b@141.227.160.163:25539?security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#>>@configV2rayNG::SE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#🇨🇦CA-23.95.76.59-0350
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?encryption=none&type=ws&host=jnir-cdn.javidnaman.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&sni=jnir-cdn.javidnaman.com#@V2ray_confing33
-vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiI+PkB2bWVzc2lyYW46OlhYOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#🔥Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#>>@V2RAY_VMESS_free::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQUUwU1E2OElqQmhUcXRkdGFRSHJS@81.19.141.45:443#>>@v2rayNG_Matsuri::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#🇳🇱 NL 54
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.70.180:1331?sni=www.nintendogames.net#🇯🇵 机场推荐:dafei.de 日本 02
-vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpISyIsImFkZCI6IjQ3LjI0My4yMTMuMjQ3IiwicG9ydCI6IjU2ODkiLCJpZCI6ImE5OWQwOGViLTgxYzUtNDk0NC1iYTE2LTQ0NjFiYjJlYzgwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2Fya2kiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw==@87.121.162.249:443#🇩🇪DE-87.121.162.249-0432
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw==@23.95.72.81:443#🇺🇸 US 13
 vless://fba8aee4-abd7-42ba-a441-460019dddb0f@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003338940169118.highlander-amsis.info&type=ws&host=639003338940169118.highlander-amsis.info&path=/prheflws#未知 VLESS-24 | free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWU41VkI1NXJ2ZEFibnFHRDNteXRJ@81.19.141.45:443#🇩🇪 DE 7
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.38.116:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE VLESS-90 | free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#🇹🇭 TH 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🇹🇼 TW 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVXBvZVF5OTlqa2tGOHR4U3k0NHFi@81.19.141.45:443#>>@v2rayNG_Matsuri::XX
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?sni=www.nintendogames.net#🇺🇸 机场推荐:dafei.de 美国 03
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg==@185.156.110.92:443#🇭🇷 HR 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443#🇯🇵 JP 3
-vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&encryption=none&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=msk.capybara.press&sid=9c2378562188c3cb#TR VLESS-52 | free-nodes
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.81.84:4054?security=tls&sni=www.nintendogames.net#未知 TROJAN-236 | free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.148.135.31:990#🇨🇾CY-91.148.135.31-1286
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#🇨🇦 CA 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#未知127 13.2MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🇳🇱 NL 51
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZkJOcmN3Q3lVOXpTemIyTHhuMXhq@81.19.141.45:443#🇩🇪 DE 13
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=5540e44a53c3d01c#BESTIIVPNBOT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#🇳🇱 NL 61
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLWWlpeTk2WGVWRFNocUFvUDd2aVhs@81.19.141.45:443#>>@v2rayNG_Matsuri::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOU1XTWVlSHVFUkZFU0RFQmNKQ01x@81.19.141.45:443#🔥Farah_VPN🟣
-trojan://BxceQaOe@58.152.25.20:443?sni=t.me/ripaojiedian&allowInsecure=1&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 12
-trojan://BxceQaOe@58.152.53.8:443?sni=t.me%2Fripaojiedian&allowInsecure=1&fp=chrome#🇭🇰 机场推荐:dafei.de 香港 05
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🇧🇷 BR 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#>>@V2RAY_VMESS_free::XX
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#@Filter_breaker
-trojan://79314e99f0a473fe86efc7827942ad00@153.121.65.107:1331?security=tls&sni=www.nintendogames.net#JP TROJAN-128 | free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvek5YSExmRzlXZTdTUlpoMWtlbmNq@77.83.246.74:443#🇵🇱 PL 4
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.249:80?encryption=none&security=none&type=grpc#t.me/v2Line | Free | 3102 | United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#🇦🇲 AM 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#🇺🇸 US 16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#@V2rayNGVPN+<=+کانفیگ+رایگان
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbGpzOHQxMlZreHk2M0tnSU9raFp3@81.19.141.45:443#🔥Farah_VPN🟣
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&type=ws&host=piaz.mrconfigur.site&path=/&security=tls&sni=piaz.mrconfigur.site#Uvpn_org
-vless://0e0df131-29f5-4725-b9a3-7b1a6cac4c95@plr.strelkavpn.ru:8443?security=reality&encryption=none&pbk=i1XUXx_YHZJ8LiZG7yGYG-jXr1JHASvat25lf9SmnzM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plr.strelkavpn.ru&sid=5626dfc4162fd4f2#BESTIIVPNBOT
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?encryption=none&security=none&type=grpc#@Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#🇳🇱 NL 15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#🇪🇸 ES 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#🇺🇸 US 3
-vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.69.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=yP1V_oAX1Sehc_102nMHuQgTOYk7T9KbJQmTlK4maVE&sid=5485e4d782145257&type=tcp&headerType=none#未知 VLESS-55 | free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcU5TZUtQMTFkeHRyeG5WRzQ1NmNp@81.19.141.45:443#🔥Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSmFWZXF5c3N3V29qTkZtSjBQeE0z@81.19.141.45:443#>>@v2rayNG_Matsuri::XX
-vless://6a753f74-b279-44d7-a442-b5cbc425569f@de.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE 🧭 8.5MB/s
 vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&insecure=1&host=freudd.info&type=ws&allowInsecure=1&sni=freudd.info#@Filter_breaker
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#🇫🇮 FI 2
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&sni=www.nintendogames.net#SG TROJAN-18 | free-nodes
-vless://e4787262-fc1f-45a8-b61d-d99e2b485bcf@141.227.166.221:13159?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#>>@mehrosaboran::NO
 vless://15ac9083-177e-4852-9acf-a9ccf24e6b35@notifications.platform.dash.cloudflare.com:2052?encryption=none&security=none&type=ws&host=udbdushs-28727272-idbsisbsha-iwiwiw.poshakhowdy.ir&path=/#👉🆔 @v2ray_configs_pool 📡 🇫🇮FI 🧭 3.2MB/s
-vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&encryption=none&headerType=none&type=tcp&sni=node.chandplus.com#@Maznet-46206-4
-vless://7039f4f0-4733-49ce-8925-2852a42d9a37@us.connect-opengate.ru:8443?security=reality&encryption=none&pbk=Yxj9S7VH0OV7B6gT68Hsglo5_ctsn5Z89bhqjBps-0Y&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=9593b1c3cf54836c#@Daily_Configs
 vless://1c3019a8-7bf1-498a-b7d4-f15677f06e88@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003276456417573.touareg-amsis.info&type=ws&host=639003276456417573.touareg-amsis.info&path=/ldumfkws#未知 VLESS-23 | free-nodes
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@190.93.244.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#t.me/entryNET/config=1850694079101557
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#未知 SS-68 | free-nodes
-vless://33a69ad0-4d00-47b8-a200-69d37578eb9c@m11a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#>>@DailyV2RY::DE
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:4054?security=tls&sni=www.nintendogames.net#未知 TROJAN-1101 | free-nodes
-vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMTk0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5S1MTlAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#🇪🇸 ES 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQTNHYktGVlBhNmRHbGxDUG1ud3dZ@81.19.141.45:443#🇩🇪 DE 8
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=/tixvuws&security=tls&encryption=none&insecure=1&host=vangoghh.info&type=ws&allowInsecure=1&sni=vangoghh.info#@Filter_breaker
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUld0Z3VlbzhMTER5NFlzeFhRQTVQ@81.19.141.45:443#🇩🇪 DE 9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 GB 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#未知 SS-125 | free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMXZOQThQSEdrTksyVUFxMG8zUjhZ@81.19.141.45:443#🇩🇪 DE 18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueGdzbUhrUDNKVTdoYlFrSmZ4Z3BYaDV0bHZYZTFlbg==@45.83.142.237:443#🇵🇹 PT 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#🇨🇷 CR 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#🇳🇱 NL 62
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#🇧🇪 BE 2
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.124.55:4054?security=tls&sni=www.nintendogames.net#未知70 96.8KB/s
-vless://7039f4f0-4733-49ce-8925-2852a42d9a37@51-ya-wl.connect-opengate.ru:8443?security=reality&encryption=none&pbk=gKP71Sngd6wzxOmzLdjsU-VW8BGKAS6AZSCrvUCASyk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=c5ae63ea7da57035#r♡ya
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#🇵🇱 PL 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSM21LeGUyQzc1dzVLTGlrNWRoWlhu@81.19.141.45:443#🇩🇪 DE 16
-vless://71a712db-3843-4d24-b4c4-724ee0813044@V2rayNGSelllBoT.m.heloisfood.ir:6673?mode=gun&security=&encryption=none&type=grpc&serviceName=@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT---@V2rayNGSelllBoT#🔥Farah_VPN🟣
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=chrome&sni=plb.tunnelguard.ru&alpn=h2,http/1.1#t.me/entryNET/config=1850664503826567
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkbGJPbFV1azR5QVpqQ0Y5bHFGaU5i@81.19.141.45:443#>>@v2rayNG_Matsuri::XX
 vmess://eyJhZGQiOiAiMTQ4LjExMy4xNzYuMTkyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogImZhcGVuZy5vcmciLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@5.22.217.244:2080?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&fp=chrome&sni=yahoo.com&sid=722ee6b369&spx=/#🔥Farah_VPN🟣
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?type=grpc&encryption=none&serviceName=&authority=&security=none#未知 VLESS-13 | free-nodes
-vless://6a753f74-b279-44d7-a442-b5cbc425569f@ua.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool 📡 🇺🇦UA 🧭 5.2MB/s
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.68.250:1596?sni=www.nintendogames.net#🇸🇬 机场推荐:dafei.de 新加坡 03
 vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJmYXBlbmcub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZmFwZW5nLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.81.84:2760?security=tls&sni=www.nintendogames.net#未知99
-vless://6a753f74-b279-44d7-a442-b5cbc425569f@ca.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool 📡 🇨🇦CA 🧭 4.5MB/s
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.19.106.68:2096?path=/Telegram @ShadowProxy66 /?ed=2560&security=tls&encryption=none&insecure=1&host=vless.muzheng.top&type=ws&allowInsecure=1&sni=vless.muzheng.top#@Filter_breaker
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#🇳🇱 NL 35
 vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&insecure=1&host=hazmkardan.info&type=ws&allowInsecure=1&sni=hazmkardan.info#@Filter_breaker
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5RlpVNGdxQTBZeEo3ZjVnU2NkWFFx@89.185.84.185:443#🔥Farah_VPN🟣
-vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&sid=200f99e321#🔵26@oneclickvpnkeys
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&path=/#🇮🇳 IN 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpneUEzNkxmNnVidEcxd0dOaXNBWjBj@81.19.141.45:443#>>@v2rayNG_Matsuri::XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMG02RXlJV0xvNFl5QkZlcWVaa050@81.19.141.45:443#>>@v2rayNG_Matsuri::XX
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&headerType=none#[🇷🇺]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUGJSMjEzVElsQWQ0ZkxlWXJENm1C@81.19.141.45:443#🇩🇪 DE 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#🇩🇰 DK 1
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.63.16:4054?security=tls&sni=www.nintendogames.net#US TROJAN-138 | free-nodes
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:127?sni=www.nintendogames.net#🇸🇬 机场推荐:dafei.de 新加坡 02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg==@89.221.225.15:443#未知 SS-74 | free-nodes
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.74.74:443?security=reality&encryption=none&pbk=yP1V_oAX1Sehc_102nMHuQgTOYk7T9KbJQmTlK4maVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=a9d7905eeee12d56#🔥Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇳🇱 NL 10
-vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiI+PkB2bWVzc2lyYW46OlNHOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#🇲🇦MA-154.70.207.97-0417
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:2760?security=tls&sni=www.nintendogames.net#未知73
-vless://TrueVPN_91780028@v547154.hosted-by-vdsina.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=chrome&security=reality&pbk=M3NkFmK1l8k2UwnfrhVtt_rljl3RtuCHGf7_9H2xCzw&sid=ffffffffff#🔴20@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@190.103.176.32:990#未知 SS-73 | free-nodes
-vless://f12bdba5-7ff5-4398-b859-08cdd7347fb3@45.92.176.55:6443?security=reality&encryption=none&pbk=DsiKWpNmI1TkNyvhHmQzRwkvJ0aaZeShzYCZa559Hn0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=2bab4d28871d98#BESTIIVPNBOT
-vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=key-nimejam.info#Channel : @Mrsoulb 🏴🏳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#🇮🇳 IN 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDdTVYNGE0Wm4ydFJKZUpXTW55ZUM5@81.19.141.45:443#>>@v2rayNG_Matsuri::XX
-vless://6a753f74-b279-44d7-a442-b5cbc425569f@nl.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool 📡 🇪🇸ES 🧭 4.9MB/s
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&security=none&type=tcp&headerType=none&host=t.me/v2Line#t.me/v2Line | Free | 3045 | France
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🔥Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#>>@DailyV2RY::LT
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@194.87.221.125:443?security=reality&encryption=none&pbk=yP1V_oAX1Sehc_102nMHuQgTOYk7T9KbJQmTlK4maVE&headerType=none&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=67b44a5918dcd53a#t.me/entryNET/config=1850658220063661
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.130.66:3093?sni=www.nintendogames.net#🇯🇵 机场推荐:dafei.de 日本 03
-vless://504f4add-e233-454c-a45d-daffaeaa6081@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003600953613625.insight-amsit.info&type=ws&host=639003600953613625.insight-amsit.info&path=/fxywhnws#未知 VLESS-15 | free-nodes
-vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.99.190.62:443/?type=grpc&encryption=none&flow=#🔵5@oneclickvpnkeys
-vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#CA VLESS-101 | free-nodes
-
-# ReSelected:  Fri Dec  5 22:23:33 2025    ||   Total: (56) Configs.
-vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJKb2luIC10b+KWtu+4jyBARGFya0h1Yl9WUE4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyNPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-trojan://3c4e10af98c30972@23.247.137.64:443?security=tls&sni=n2.gladns.com&alpn=h2&fp=chrome&type=grpc&serviceName=db&path=/#🇺🇸 US 13
-vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@62.113.42.65:27121?security=reality&encryption=none&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&headerType=none&fp=chrome&type=tcp&sni=www.ok.ru&sid=fdc8125ea6f61323#🔥Farah_VPN🟣
-vless://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&sid=85225c27630d023f#🎶23@oneclickvpnkeys
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag5py65Zy65o6o6I2QOmRhZmVpLmRlIOmmmea4ryAxMyIsImFkZCI6IjQ3LjI0Mi4xNDAuNTIiLCJwb3J0IjoiMzQ4MTUiLCJpZCI6IjFhNDZiNjZjLTZiYTktNGU5Yy1hYTBiLTBlYmFjMmI2OWUzMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiJjaHJvbWUiLCJwYXRoIjoiL2Fya2kifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#@V2rayBaaz
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#@HiByeVPNN 💯⚡❤️‍🔥
-vless://SERVERNETT@yuo0.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#@ConfigX2ray
-vless://6dd91b61-96b8-403c-856e-9b873405c3bf@m43a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#>>@DailyV2RY::DE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@171.22.254.129:990#@Hddify |^| چنل هدیفای
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag5py65Zy65o6o6I2QOmRhZmVpLmRlIOmmmea4ryAwNiIsImFkZCI6IjQ3LjI0Mi4xNDAuNTIiLCJwb3J0IjoiOTc1NiIsImlkIjoiYzc3NjI4ZGQtNTFlNy00OTk2LWE0MDgtYWFhYjhiYWFmNzllIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJmcCI6ImNocm9tZSIsInBhdGgiOiIvYXJraSJ9
-vless://aaf36b50-259c-454b-8a35-d1829a32ae24@m60a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#🔥Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-71.19.148.143:443
-vless://d69b7f2d-b1e1-4303-a8da-47f7e38c404c@m58a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#>>@DailyV2RY::FI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#🔥Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@203.23.128.92:990#@HiByeVPNN 💯⚡❤️‍🔥
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:4054?sni=www.nintendogames.net#🇺🇸 机场推荐:dafei.de 美国 24
-vless://3c336253-a12b-44f3-b6b2-a0c7086f2b3d@m79a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#🔥Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#@MARAMBASHI 😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#🇨🇦CA-23.95.76.59-0352
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#🇦🇪AE-95.174.68.33-1210
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cosmin.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639000411272217052.swift-amsin.info&path=/cahttingws&security=tls&sni=639000411272217052.swift-amsin.info&allowInsecure=1&fp=chrome#🎶53@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@62.100.205.100:990#@HiByeVPNN 💯⚡❤️‍🔥
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:2760?sni=www.nintendogames.net#🇸🇬 机场推荐:dafei.de 新加坡 04
-vless://7bcfdcf8-fe22-4d40-8707-3249aeb66a5f@m82a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#>>@DailyV2RY::FI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#@V2rayBaaz
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#SS-@V2rayAlpha--16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.147:990#@HiByeVPNN 💯⚡❤️‍🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990#🇵🇦PA-138.186.142.80-0348
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#SS-@V2rayAlpha--84
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#SS-@V2rayAlpha--74
-vless://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?security=none&type=ws&path=/admin&fp=chrome#🇸🇬 机场推荐:dafei.de 新加坡 02
-vless://90c9c25c-df6c-4438-83d3-ef97166a9184@noda4.topconnected.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=yP1V_oAX1Sehc_102nMHuQgTOYk7T9KbJQmTlK4maVE&sid=1bf1bd5753284681#🎶27@oneclickvpnkeys
-vless://TrueVPN_91780028@v547154.hosted-by-vdsina.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=chrome&security=reality&pbk=M3NkFmK1l8k2UwnfrhVtt_rljl3RtuCHGf7_9H2xCzw&sid=ffffffffff#🎶25@oneclickvpnkeys
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&sni=kuame.missionsec.us#JP TROJAN-19@free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#🇺🇸 US美国(mibei77.com 米贝节点分享)-clone
-vless://0f8e2cfc-fdf2-46c7-bfcd-ce8273d5ff13@de-2.shvurgceo.online:38395/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&security=reality&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&sid=ab12cd34#🎵2@one
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#🇦🇷AR-38.54.45.129-0371
-vless://a3e72e43-3dc0-4988-a7d2-185508031b91@65.109.208.46:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=active.app-browser.org#@V2ray1_Ng
-trojan://aff9928f-7ba3-45fb-b56d-4dec45653ca9@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=/images&host=q6clkp794liy3y90.hktimecsgo.xyz#🇭🇰 机场推荐:dafei.de 香港 04
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5MV9OZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=kalam.mrconfigur.site&path=/&security=tls&sni=kalam.mrconfigur.site&alpn=h3h2&allowInsecure=1#🌏20@oneclickvpnkeys
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@195.211.124.230:34045/?type=tcp&encryption=none&flow=&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#🎵15@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#>>@OutlineVpnOfficial::BH
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.249:80?encryption=none&type=grpc&path=/#🇺🇸 US 52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#🇺🇸 US美国(mibei77.com 米贝节点分享)
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh27v1.carwashipdir.shop#AZARBAYJAB1🇺🇸
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇩🇪[Telegram:NetifyVpn]
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@104.26.14.58:443?security=tls&type=ws&path=/proxyip=ProxyIP.SG.CMLiussss.net&host=bp.suoni.nyc.mn&sni=bp.suoni.nyc.mn&fp=random#🇺🇸 机场推荐:dafei.de 美国 12
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=telegram🇨🇳@wangcai2/?ed=2560#>>@v2nodes::XX
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@198.41.223.14:443?security=tls&type=ws&path=/proxyip=ProxyIP.SG.CMLiussss.net&host=bp.suoni.nyc.mn&sni=bp.suoni.nyc.mn&fp=random#🇺🇸 机场推荐:dafei.de 美国 11
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@141.148.1.34:38589?security=tls&type=ws&path=/proxyip=ProxyIP.SG.CMLiussss.net&host=bp.suoni.nyc.mn&sni=bp.suoni.nyc.mn&fp=random#🇺🇸 机场推荐:dafei.de 美国 10
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@98.70.151.163:443?security=tls&type=ws&path=/proxyip=sjc.o00o.ooo&host=ak.suoni.nyc.mn&sni=ak.suoni.nyc.mn&fp=random#🇮🇳 机场推荐:dafei.de 印度 03
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.21.224.5:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&encryption=none&type=ws&path=/&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇩🇪[Telegram:NetifyVpn]
 vmess://eyJhZGQiOiIxNDYuNTkuMTE4LjI0OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmFwZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7Xwn4exQVpBUkJBWUpBQjEiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
