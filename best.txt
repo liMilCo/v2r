@@ -1,4 +1,4 @@
-# ReSelected:  Wed Dec 31 22:22:56 2025    ||   Total: (78) Configs.
+# ReSelected:  Thu Jan  1 22:16:07 2026    ||   Total: (67) Configs.
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&security=tls&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&insecure=0&type=grpc&allowInsecure=0&sni=pqh27v1.carwashipdir.shop#@MARAMBASHI 🇧🇷
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@pages.cloudflare.com:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=/?ed=2560&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&fp=chrome#>>@oneclickvpnkeys::US
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?security=tls&type=ws&path=/yhowcws&host=azizoarjmand.info&sni=azizoarjmand.info&fp=chrome&encryption=none#[OpenRay] Dynamic-7346
@@ -10,21 +10,13 @@ vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@43hic3j.futurebalhbyh.lat:2052?mode
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.25.119:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🍅🏝9
 vless://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443/?type=ws&encryption=none&flow=&path=/57.128.183.35:443&security=tls&sni=purplelily.qzz.io#🌨️66@oneclickvpnkeys
 vless://e9dbc178-3656-40f8-8833-5023f306ef1d@213.165.60.36:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#🔥Farah_VPN🟣
-vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@104.26.6.89:80?path=/&security=none&encryption=none&host=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&type=ws#
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1281?sni=www.nintendogames.net#🇺🇸 机场推荐:dafei.de 美国 08
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v1.hiddendom.shop&alpn=h2&type=grpc#[OpenRay] Dynamic-2072
 vless://34705c66-3350-4c6c-ba93-f2cacd3e50ec@seashell.qzz.io:443?path=/45.134.21.8:2053&security=tls&encryption=none&type=ws&sni=seashell.qzz.io#@kaanfing
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.16.178:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#🍅🏝8
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.19.203:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🍅🏝1
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.20:8880?encryption=none&type=grpc&packetEncoding=xudp#🇺🇸[openproxylist.com]
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@185.92.183.112:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#@kaanfing
 vless://e258977b-e413-4718-a3af-02d75492c349@104.17.45.15:443?security=tls&type=ws&path=/?ed=2560&host=sg.xmm9527.xyz&sni=sg.xmm9527.xyz&fp=chrome&encryption=none#🔥Farah_VPN🟣
-vless://ac2c8871-d4eb-40a6-8487-fd1b31c3bc22@89.169.182.230:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&security=reality&pbk=dFORJuMEa7izUStNjvhLFvJ2Hudr4v07VQhQS-Wbyh8&sid=fd#🌨️76@oneclickvpnkeys
 vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@rg4p7vxulw2blf.sheraitonldayd.lat:2052?security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=3188433840#🔥Farah_VPN🟣
-vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#@v2rayngzendegimamad🕊️
 vless://e9dbc178-3656-40f8-8833-5023f306ef1d@us01-vlr01-gmn03.vpnvezdehod.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#🇺🇸•|•@confegraigan•|•سنگر شکن سرچ کن تو تلگرام`
-trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?security=tls&sni=tronblue.qzz.io&alpn=h2,http/1.1&fp=chrome&type=ws&host=tronblue.qzz.io&path=/152.32.255.24:587#🇺🇸 US 4
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.24.98:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#🍅🏝2
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.149.145:8443?security=tls&type=ws&path=/?ed=2560&host=sg.xmm9527.xyz&sni=sg.xmm9527.xyz&fp=chrome&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_5 🧭 5.1MB/s`
 vless://e258977b-e413-4718-a3af-02d75492c349@198.41.222.116:2087?security=tls&type=ws&path=/?ed=2560&host=sg.xmm9527.xyz&sni=sg.xmm9527.xyz&fp=chrome&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_7 🧭 4.6MB/s`
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#@v2rayngzendegimamad🕊️
@@ -37,7 +29,6 @@ vless://846c5d45-936c-42f6-9120-2d13830d5fa0@51.250.4.181:443?security=reality&t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#🇳🇱 NL 87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#🇳🇱 NL 89
 vless://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=tronblue.qzz.io&type=ws&allowInsecure=1&sni=tronblue.qzz.io#Channel id: @ShadowProxy66 🇮🇳
-vless://918364ce-dde9-4e3c-ae1e-c7c497aebb28@valper.movementvip.ir:443?security=reality&type=tcp&sni=movivoolom.movementvip.ir&fp=chrome&sid=a4587306a3bc2a23&pbk=Fi2swQDCXMgw3x7TPhDXPaxjnnHwdE52EJU2cyp_EGo&encryption=none#[🇫🇮]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag5py65Zy65o6o6I2QOmRhZmVpLmRlIOmmmea4ryAxNSIsImFkZCI6IjguMjEwLjE4NC4xMDUiLCJwb3J0IjoiNDAzNzQiLCJpZCI6IjM2Yjc2MzczLTdhNGYtNDY2OS05MTEzLTdkMjQ3YmNmMjcwNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJwYXRoIjoiLyJ9
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?encryption=none&security=tls&sni=azizoarjmand.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=azizoarjmand.info&path=/yhowcws#@Daily_Configs
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@www.gco.gov.qa:2053?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=/?ed=2560#🔥Farah_VPN🟣
@@ -50,7 +41,6 @@ vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAi
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.98:8880?type=grpc&path=/#🇺🇸 US 29
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.62.23:2087?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=tw.xmm9527.xyz&type=ws&allowInsecure=0&sni=tw.xmm9527.xyz#1
 vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@rz02734.koohrangil8cab.lat:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=0ee11e#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.153.13:3901?sni=www.nintendogames.net#🇸🇬 机场推荐:dafei.de 新加坡 03
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@144.31.178.168:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net&security=reality&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🌨️88@oneclickvpnkeys
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@104.19.220.22:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#🔥Farah_VPN🟣
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@docker.1panel.live:2053?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#🍅🏝6
@@ -58,7 +48,6 @@ vless://4d7a559b-6379-41a7-9e51-41ef759846aa@85.192.48.101:443?path=/&security=t
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=/yhowcws&security=tls&sni=azizoarjmand.info&fp=chrome#🌨️45@oneclickvpnkeys
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhdmVpcm9yLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAdjJyYXluZ3plbmRlZ2ltYW1hZPCflYrvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.23.141:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🍅🏝3
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@202.181.103.235:4054?security=tls&sni=www.nintendogames.net#🇯🇵JP-202.181.103.235-0922
 vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&sid=fd88bd27db4cc661#🇷🇺 🎧37@oneclickvpnkeys
 vless://cef12ad2-fb16-4ace-ab26-2a026d40a7d2@144.31.74.41:8443/?type=grpc&encryption=none&flow=&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=LB2i67ErtJPlIIDeDHlGvSip6-qPJLH9HzYju5fZ32c&sid=2916#[🇩🇪]t.me/ConfigsHub
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@198.41.208.234:443?security=tls&type=ws&path=/&host=snippets.kkii.eu.org&sni=snippets.kkii.eu.org&fp=chrome#🇺🇸 机场推荐:dafei.de 美国 08
