@@ -32,7 +32,7 @@ jobs:
       run: |
         python app.py
         python sort.py
-        python best.py
+        
 
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v9
