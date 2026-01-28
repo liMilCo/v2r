@@ -25,6 +25,6 @@ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eterni
 #https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt
 https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
-https://raw.githubusercontent.com/Joker-funland/V2ray-configs/main/config.txt
+#https://raw.githubusercontent.com/Joker-funland/V2ray-configs/main/config.txt
 https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vless.txt
 https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vmess.txt
