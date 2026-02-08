@@ -4,7 +4,7 @@ import requests
 
 # Define a fixed value
 TIMEOUT = 15  # seconds
-Best_URL = "https://btc.liwil.ir/pages"
+Best_URL = "https://btc.limil.ir/pages"
 
 print(f"\nUpdate Best Configs ...")
 output_folder = os.path.join(os.path.dirname(__file__), "..")
