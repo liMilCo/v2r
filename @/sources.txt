@@ -28,3 +28,4 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_c
 #https://raw.githubusercontent.com/Joker-funland/V2ray-configs/main/config.txt
 https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vless.txt
 https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vmess.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt
