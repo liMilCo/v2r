@@ -3,7 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-001.fastervpn.world:443?insecure=1&sni=vpn-kr-001.fastervpn.world#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2001
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60006?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2009
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60007?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2007
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60010?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2014
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60009?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2005
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60001?insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZFAwYjIwNA%3D%3D&sni=zf.9966690.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2038
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60008?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2006
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram : @V2ynpv
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://DBUklcvOyH@45.81.19.251:443?security=tls&insecure=1&sni=web.bale.ai#@Proxy_Vpney v+p (3)
