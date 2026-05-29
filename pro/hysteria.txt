@@ -3,23 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-hysteria2://45a90d32-08bd-4dea-8345-f1f541cc7f90@hk04.jgpy.help:10089?insecure=1&sni=apple.com#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2005
-hysteria2://auth@49.12.142.89:443?insecure=1&sni=www.microsoft.com&alpn=h3&fastopen=1&up=50&down=100#outline_ir
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfusp.9966690.xyz:60034?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A%3D%3D&sni=zfusp.9966690.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2062
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@GozargahAzad|🇩🇪
-hysteria2://45a90d32-08bd-4dea-8345-f1f541cc7f90@us02.jgpy.help:10078?insecure=1&sni=apple.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2038
-hysteria2://45a90d32-08bd-4dea-8345-f1f541cc7f90@hk02.jgpy.help:10085?insecure=1&sni=apple.com#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2001
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@150.129.10.140:443?sni=s614.ccgfw.online#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2001
-hysteria2://338ca147-4e0c-49f8-a1b4-3a02b9f5cbb3@141.148.222.181:51000?insecure=1&sni=cn.cremedelamer.com&mport=51000-53000#%F0%9F%87%AE%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8D%B0%E5%BA%A6%2001
-hysteria2://45a90d32-08bd-4dea-8345-f1f541cc7f90@sg02.jgpy.help:10026?insecure=1&sni=apple.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2011
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60026?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A%3D%3D&sni=zf.9966690.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2008
-hysteria2://338ca147-4e0c-49f8-a1b4-3a02b9f5cbb3@129.146.215.233:51000?insecure=1&sni=cn.cremedelamer.com&mport=51000-53000#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2045
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🐏80@oneclickvpnkeys
-hysteria2://45a90d32-08bd-4dea-8345-f1f541cc7f90@jp04.jgpy.help:10082?insecure=1&sni=apple.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2004
-hysteria2://0wg3zH68LL6S91ueKHvZFxWM@hy2.lingshichat.top:443?sni=hy2.lingshichat.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2019
-hysteria2://45a90d32-08bd-4dea-8345-f1f541cc7f90@jp02.jgpy.help:10086?insecure=1&sni=apple.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2006
-hysteria2://338ca147-4e0c-49f8-a1b4-3a02b9f5cbb3@129.159.97.206:51000?insecure=1&sni=cn.cremedelamer.com&mport=51000-53000#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2025
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfusp.9966690.xyz:60019?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A%3D%3D&sni=zfusp.9966690.xyz#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2008
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@KAFING_2
+hysteria2://45a90d32-08bd-4dea-8345-f1f541cc7f90@hk02.jgpy.help:10085?insecure=1&sni=apple.com#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2007
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443/?insecure=1&sni=vpn-de-002.fastervpn.world#🫜41@oneclickvpnkeys
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?insecure=1&sni=hy2.123266.xyz#APPXA-SI
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%A8%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8F%B0%E6%B9%BE%2001
+hysteria2://auth@49.12.142.89:443?insecure=1&sni=www.microsoft.com&alpn=h3&fastopen=1&up=50&down=100#outline_ir
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@KAFING_2
