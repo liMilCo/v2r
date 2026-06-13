@@ -1,3 +1,8 @@
+# Updated:    Fri Jun 12 17:58:37 2026    ||    Added: (3) Configs     ||    From: [https://raw.githubusercontent.com/liMilCo/v2r/main/new_configs.txt]
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?encryption=none&type=xhttp&security=tls&path=/?ed=2053&mode=auto&sni=vi.new-persian-song.ir&alpn=h3,h2&fp=chrome&insecure=0&allowInsecure=0#@NewsDarya
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?allowInsecure=1&encryption=none&host=apiv2.global.ssl.fastly.net&path=/&security=tls&sni=speedtest.net&type=ws#🪬57@oneclickvpnkeys
+
 # ReSelected:  Thu Jun 11 15:42:39 2026    ||   Total: (69) Configs.
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#7🎖@kakajan🎁
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@FarazV2ray
