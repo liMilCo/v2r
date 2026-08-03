@@ -1,9 +1,5 @@
-# ReSelected:  Sat Aug  1 15:31:01 2026    ||   Total: (14) Configs.
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@85.11.161.8:444?security=reality&sni=web.max.ru&fp=chrome&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&sid=8622176789abcdef&type=grpc&serviceName=web.max.ru&path=/#🇭🇰 HK 4
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@millionaire.levikogjgfdd.ir:443?path=/hdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#🆔v2ray1_ng 🔒 VL-WS-N/A ❔ XX 55ms
+# ReSelected:  Sun Aug  2 15:04:40 2026    ||   Total: (9) Configs.
 trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@FarazV2ray
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@one-for-all.levikogjgfdd.ir:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#🆔v2ray1_ng 🔒 VL-WS-N/A ❔ XX 58ms
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?encryption=none&type=ws&security=tls&path=/hdgrbws&host=terazhediii.info&sni=terazhediii.info&insecure=0&allowInsecure=0#🆔spotify_porteghali 🔒 VL-WS-N/A ❔ XX 36ms
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&type=tcp&headerType=none&security=none#@Alpha_v2rayIP
 vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@178.104.253.73:6500?security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&path=/#🇩🇪 DE 5
 trojan://MITIVPN@104.18.42.68:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/usa---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=Ussa1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#🇨🇦127915 | ⚡️Telegram = t.me/SOSkeyNET
@@ -11,6 +7,5 @@ vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:8443?encryption=no
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#>>@configV2rayNG::XX
 trojan://MiTiVPN@104.21.40.208:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=dde1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#🇨🇦127916 | ⚡️Telegram = t.me/SOSkeyNET
 vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng 🔓 VL-TCP-N/A ❔ XX 143ms
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=&encryption=none&headerType=none&type=tcp#@Capoit
 vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@one-for-all.levikogjgfdd.ir:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-004.vector9nmb3.info&type=ws&allowInsecure=0&sni=ad-004.vector9nmb3.info#🆔v2ray1_ng 🔒 VL-WS-N/A ❔ XX 177ms
 
