@@ -106,7 +106,6 @@ https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt
 💡 برای مدیریت آسان‌تر، فایل‌های کانفیگ به گروه‌های جداگانه بر اساس نوع پروتکل تقسیم شده‌اند. جهت دسترسی آسان به کانفیگ‌های جداگانه از لینک‌های زیر استفاده کنید:
 
 <p class="ltr">
-       
 Vmess: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt
 <br>
 <a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt#V2R-Vmess"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/vmess.txt#V2R-Vmess" /></a>
@@ -130,7 +129,6 @@ ShadowSocksR: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/ssr.txt
 Hysteria2: https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt
 <br>
 <a href="https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt#V2R-Hysteria2"><img width="100" height="100" alt="Subscription Vmess" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/pro/hysteria.txt#V2R-Hysteria2" /></a>
-
 </p>
 
 
