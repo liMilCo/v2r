@@ -1,14 +1,19 @@
-# 🎁 فیلترشکن رایگان + پروکسی یاب 🕵
+# 🎁 بهترین کانفیگ های پروکسی (رایگان و دستچین شده)
 
+[<img width="200" height="200" alt="Best Configs" class="ltr" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt#V2R-Best" />](https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt)
+
+https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt
+
+---
+
+## 🕵 نرم آفزار پروکسی یاب (دستچین بهترن کانفیگ ها در ویندوز)
 [<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://limilco.github.io/v2r/) 
 [<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://limilco.github.io/v2r/README_EN) 
        [<img src="https://img.shields.io/badge/GitHub-liMilCo/v2r-006222.svg?logo=github">](https://github.com/liMilCo/v2r) 
 
-💻 این مخزن مجموعه‌ای از کانفیگ‌های V2ray رایگان است که می توانید با اپلیکیشن کلاینت V2ray خود برای دسترسی به اینترنت به صورت امن و ناشناس استفاده کنید. 
 
-## راه‌اندازی
 
-### روش **0**: استفاده از نرم افزار **پروکسی یاب**
+### استفاده از نرم افزار **پروکسی یاب**
 <p align="center">
        <a href="https://limilco.github.io/v2r/tester/"><img width="565" height="202" alt="image" src="https://github.com/user-attachments/assets/0deec0ea-b1d4-450e-89e3-5f5ff45298b3" /></a>
 </p>
@@ -24,6 +29,15 @@
 
 
 ---
+---
+<h3><p align="center"><b>
+👁️در اینجا مجموعه ای کانفیگ ها روزانه از سراسر اینترنت جمع آوری و به روش های مخطف ذخیره می شوند 👁️
+</b></p></h3>
+
+
+## روش های استفاده:
+
+
 ### روش **1**: بهترین کانفیگ ها (آپدیت دستی)
 💡 در این روش به صورت دستی کانفیک ها تست شده و بهترین کانفیگ ها انتخاب شده اند
 
