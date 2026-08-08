@@ -7,6 +7,9 @@ https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt
 ---
 
 ## 🕵 نرم آفزار پروکسی یاب (دستچین بهترن کانفیگ ها در ویندوز)
+
+🚩 اگر می خواهید بر اساس شبکه خودتان بهترین کانفیگ ها را پیدا کنید میتوانید از این نرم افزار استفاده کنید
+
 [<img src="https://img.shields.io/badge/FA-Persian-45A1FC.svg?logo=languagetool">](https://limilco.github.io/v2r/) 
 [<img src="https://img.shields.io/badge/EN-English-FD5300.svg?logo=languagetool">](https://limilco.github.io/v2r/README_EN) 
        [<img src="https://img.shields.io/badge/GitHub-liMilCo/v2r-006222.svg?logo=github">](https://github.com/liMilCo/v2r) 
@@ -30,10 +33,20 @@ https://raw.githubusercontent.com/liMilCo/v2r/main/best.txt
 
 ---
 ---
-<h3><p align="center"><b>
-👁️در اینجا مجموعه ای کانفیگ ها روزانه از سراسر اینترنت جمع آوری و به روش های مخطف ذخیره می شوند 👁️
-</b></p></h3>
 
+<div align=center>
+<table>
+    <thead>
+        <tr>
+            <td>
+<p align="center"><b>
+
+👁️ در اینجا مجموعه ای از کانفیگ ها را روزانه از سراسر اینترنت جمع آوری و به روش های مخطلف ذخیره می کنیم 👁️
+
+</b></p>
+</td>
+    </tr></thead></table>
+</div>
 
 ## روش های استفاده:
 
