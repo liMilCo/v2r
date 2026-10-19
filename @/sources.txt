@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/m
 https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt
+#https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt
 https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vless.txt
 https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vmess.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt
